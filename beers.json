@@ -81,18 +81,15 @@
 		"Golden Ale"
 	],
 	"metastyles": [
-		"Sour",
-		"Hoppy",
-		"Extreme",
-		"Experimental",
-		"Dark",
-		"Mead",
-		"Cider",
-		"Belgian",
-		"Mixed-fermentation",
+		"American",
 		"Classic",
-		"Wine",
-		"Sake"
+		"Dark",
+		"European",
+		"Experimental",
+		"Flavoured",
+		"IPA",
+		"Sour",
+		"Cider"		
 	],
 	"beers": [
     {
@@ -106,7 +103,7 @@
         "session": "container-a",
         "id": 2593639,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "3 Ravens",
@@ -119,7 +116,7 @@
         "session": "container-a",
         "id": 2593640,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "4 Pines Brewing Co",
@@ -132,7 +129,7 @@
         "session": "container-a",
         "id": 2593642,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "7 Cent Brewery",
@@ -145,19 +142,20 @@
         "session": "container-a",
         "id": 2593645,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "8 Wired Brewing",
         "name": "Stone Free",
         "percent": 4.4,
+        "style": "Kettle Sour",
         "desc": "When 8 Wired does fruited sours, it's always a good idea to pay attention. This Hendrix inspired Kettle Sour is fermented on apricots and has a lovely dose of Riwaka hops.",
         "search": "Search",
         "utbid": 2593649,
         "session": "container-a",
         "id": 2593649,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Aether Brewing",
@@ -170,7 +168,7 @@
         "session": "container-a",
         "id": 2593650,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Aiba Champion Brewers",
@@ -183,7 +181,7 @@
         "session": "container-a",
         "id": 2593651,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Akasha Brewing Company",
@@ -196,7 +194,7 @@
         "session": "container-a",
         "id": 2593654,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Alibi Brewing Company",
@@ -209,7 +207,7 @@
         "session": "container-a",
         "id": 2593655,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "All inn Brewing Co",
@@ -222,7 +220,7 @@
         "session": "container-a",
         "id": 2593656,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Altitude Brewing",
@@ -235,7 +233,7 @@
         "session": "container-a",
         "id": 2593658,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "Flavoured"
     },
     {
         "brewery": "Australian Beer Co",
@@ -248,7 +246,7 @@
         "session": "container-a",
         "id": 2593661,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Australian Brewery",
@@ -261,7 +259,7 @@
         "session": "container-a",
         "id": 2593662,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Australian Homebrewer of the Year",
@@ -274,7 +272,7 @@
         "session": "container-a",
         "id": 0,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "B.Effect Brewing Co",
@@ -287,7 +285,7 @@
         "session": "container-a",
         "id": 2593663,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Bad Shepherd Brewing Co",
@@ -300,7 +298,7 @@
         "session": "container-a",
         "id": 2593668,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Badlands Brewery",
@@ -313,7 +311,7 @@
         "session": "container-a",
         "id": 2593669,
         "sessionsyd": "container-a",
-        "metastyle": "#N/A"
+        "metastyle": "Classic"
     },
     {
         "brewery": "Barossa Valley Brewing",
@@ -325,7 +323,7 @@
         "utbid": 0,
         "session": "container-a",
         "id": 0,
-        "metastyle": "#N/A"
+        "metastyle": "Flavoured"
     },
     {
         "brewery": "Barrabool Hills Brewery",
@@ -337,7 +335,7 @@
         "utbid": 2593676,
         "session": "container-a",
         "id": 2593676,
-        "metastyle": "#N/A"
+        "metastyle": "American"
     },
     {
         "brewery": "Batch Brewing Company",
@@ -349,7 +347,7 @@
         "utbid": 2593677,
         "session": "container-a",
         "id": 2593677,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Beer Garden Brewing",
@@ -361,7 +359,7 @@
         "utbid": 2593681,
         "session": "container-a",
         "id": 2593681,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Beerfarm / Rocky Ridge Brewing Co",
@@ -373,7 +371,7 @@
         "utbid": 2593683,
         "session": "container-a",
         "id": 2593683,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Bells Beach Brewing",
@@ -385,7 +383,7 @@
         "utbid": 2593684,
         "session": "container-a",
         "id": 2593684,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Bentspoke Brewing Co",
@@ -397,7 +395,7 @@
         "utbid": 2593686,
         "session": "container-a",
         "id": 2593686,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Big Shed Brewing Concern",
@@ -409,7 +407,7 @@
         "utbid": 2593687,
         "session": "container-a",
         "id": 2593687,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Black Brewing co",
@@ -421,7 +419,7 @@
         "utbid": 2593694,
         "session": "container-a",
         "id": 2593694,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Black Heart Brewery",
@@ -433,7 +431,7 @@
         "utbid": 2593695,
         "session": "container-a",
         "id": 2593695,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Black Hops Brewing",
@@ -445,7 +443,7 @@
         "utbid": 2593697,
         "session": "container-a",
         "id": 2593697,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Blackman's Brewery",
@@ -457,7 +455,7 @@
         "utbid": 2593698,
         "session": "container-a",
         "id": 2593698,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Bonehead Brewing",
@@ -469,7 +467,7 @@
         "utbid": 2593699,
         "session": "container-a",
         "id": 2593699,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Bootleg Brewery",
@@ -481,7 +479,7 @@
         "utbid": 2593701,
         "session": "container-a",
         "id": 2593701,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Brewicolo Brewing Co",
@@ -493,7 +491,7 @@
         "utbid": 2593703,
         "session": "container-a",
         "id": 2593703,
-        "metastyle": "#N/A"
+        "metastyle": "American"
     },
     {
         "brewery": "Brewmanity Beer Co",
@@ -505,7 +503,7 @@
         "utbid": 2593704,
         "session": "container-a",
         "id": 2593704,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Bridge Road Brewers",
@@ -517,7 +515,7 @@
         "utbid": 2593705,
         "session": "container-a",
         "id": 2593705,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Bright Brewery",
@@ -529,7 +527,7 @@
         "utbid": 2593707,
         "session": "container-a",
         "id": 2593707,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Brisbane Brewing Co",
@@ -541,7 +539,7 @@
         "utbid": 2593711,
         "session": "container-a",
         "id": 2593711,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Brothers Beer",
@@ -553,7 +551,7 @@
         "utbid": 2593712,
         "session": "container-a",
         "id": 2593712,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Bruny Island Beer Co",
@@ -565,7 +563,7 @@
         "utbid": 2593713,
         "session": "container-a",
         "id": 2593713,
-        "metastyle": "#N/A"
+        "metastyle": "Flavoured"
     },
     {
         "brewery": "Bucket Boys Craft Beer Co",
@@ -577,7 +575,7 @@
         "utbid": 2593715,
         "session": "container-a",
         "id": 2593715,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Burleigh Brewing Co",
@@ -589,7 +587,7 @@
         "utbid": 2593719,
         "session": "container-a",
         "id": 2593719,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Burnley Brewing",
@@ -601,7 +599,7 @@
         "utbid": 2593720,
         "session": "container-a",
         "id": 2593720,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Capital Brewing Co",
@@ -613,7 +611,7 @@
         "utbid": 2593721,
         "session": "container-a",
         "id": 2593721,
-        "metastyle": "#N/A"
+        "metastyle": "American"
     },
     {
         "brewery": "Chaotic hop Brewing",
@@ -625,7 +623,7 @@
         "utbid": 2593722,
         "session": "container-a",
         "id": 2593722,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Cheeky Monkey Brewery and Cidery",
@@ -637,7 +635,7 @@
         "utbid": 2593727,
         "session": "container-a",
         "id": 2593727,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Chur Brewing Co",
@@ -649,7 +647,7 @@
         "utbid": 2593728,
         "session": "container-a",
         "id": 2593728,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "The Coastal Brewing Company",
@@ -661,7 +659,7 @@
         "utbid": 2594970,
         "session": "container-a",
         "id": 2594970,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Coconspirators Brewing Company",
@@ -673,7 +671,7 @@
         "utbid": 2593730,
         "session": "container-a",
         "id": 2593730,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Colonial Brewing Co",
@@ -685,7 +683,7 @@
         "utbid": 2593732,
         "session": "container-a",
         "id": 2593732,
-        "metastyle": "#N/A"
+        "metastyle": "American"
     },
     {
         "brewery": "The Craft & Co",
@@ -697,7 +695,7 @@
         "utbid": 2594972,
         "session": "container-a",
         "id": 2594972,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Dainton Brewery",
@@ -709,7 +707,7 @@
         "utbid": 2593734,
         "session": "container-a",
         "id": 2593734,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Deeds Brewing",
@@ -721,7 +719,7 @@
         "utbid": 2593736,
         "session": "container-a",
         "id": 2593736,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Deep Creek Brewing Co",
@@ -733,7 +731,7 @@
         "utbid": 2593737,
         "session": "container-a",
         "id": 2593737,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Devils Brewery",
@@ -745,7 +743,7 @@
         "utbid": 2593739,
         "session": "container-a",
         "id": 2593739,
-        "metastyle": "#N/A"
+        "metastyle": "American"
     },
     {
         "brewery": "Eagle bay Brewing Company",
@@ -757,7 +755,7 @@
         "utbid": 2593742,
         "session": "container-a",
         "id": 2593742,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Eden Brewery",
@@ -769,7 +767,7 @@
         "utbid": 2593745,
         "session": "container-a",
         "id": 2593745,
-        "metastyle": "#N/A"
+        "metastyle": "Classic"
     },
     {
         "brewery": "Edge Brewing Project",
@@ -781,7 +779,7 @@
         "utbid": 2593746,
         "session": "container-a",
         "id": 2593746,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Epic Brewing Company",
@@ -793,7 +791,7 @@
         "utbid": 2593748,
         "session": "container-b",
         "id": 2593748,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Feral Brewing Company",
@@ -805,7 +803,7 @@
         "utbid": 2593749,
         "session": "container-b",
         "id": 2593749,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Foghorn Brewhouse",
@@ -817,7 +815,7 @@
         "utbid": 2593753,
         "session": "container-b",
         "id": 2593753,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Foreigner Brewing Company",
@@ -829,7 +827,7 @@
         "utbid": 2593755,
         "session": "container-b",
         "id": 2593755,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Forrest Brewing Company",
@@ -841,7 +839,7 @@
         "utbid": 2593756,
         "session": "container-b",
         "id": 2593756,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Fox hat Brewing",
@@ -853,19 +851,19 @@
         "utbid": 2593762,
         "session": "container-b",
         "id": 2593762,
-        "metastyle": "#N/A"
+        "metastyle": "American"
     },
     {
         "brewery": "Frenchies Bistro & Brewery",
         "name": "Euskadi Biere de Garde",
         "percent": 9.5,
-        "style": "Bi?re de Garde",
+        "style": "Bière de Garde",
         "desc": "Espelette is a delicate and fragrant spice that the Frenchie's head chef loves, so they've used it in this traditional French Bi?re de Garde style. It's then aged in Cognac barrels. Expect oaky vanilla, spice and a toasty malt flavour.",
         "search": "Search",
         "utbid": 2593763,
         "session": "container-b",
         "id": 2593763,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Funk Estate",
@@ -877,7 +875,7 @@
         "utbid": 2593764,
         "session": "container-b",
         "id": 2593764,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Fury & son Brewing Company",
@@ -889,7 +887,7 @@
         "utbid": 2593766,
         "session": "container-b",
         "id": 2593766,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Garage Project",
@@ -901,7 +899,7 @@
         "utbid": 2593767,
         "session": "container-b",
         "id": 2593767,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Goose Island",
@@ -913,7 +911,7 @@
         "utbid": 2593770,
         "session": "container-b",
         "id": 2593770,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Grand Ridge Brewery",
@@ -925,7 +923,7 @@
         "utbid": 2593772,
         "session": "container-b",
         "id": 2593772,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Green Beacon Brewing Co",
@@ -937,7 +935,7 @@
         "utbid": 2593773,
         "session": "container-b",
         "id": 2593773,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Hallertau Brewery",
@@ -949,7 +947,7 @@
         "utbid": 2593774,
         "session": "container-b",
         "id": 2593774,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Hawkers Beer",
@@ -961,7 +959,7 @@
         "utbid": 2593775,
         "session": "container-b",
         "id": 2593775,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Heyday Beer Co",
@@ -973,7 +971,7 @@
         "utbid": 2595961,
         "session": "container-b",
         "id": 2595961,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Holgate Brewhouse",
@@ -985,7 +983,7 @@
         "utbid": 2593779,
         "session": "container-b",
         "id": 2593779,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Hop Nation",
@@ -997,7 +995,7 @@
         "utbid": 2593781,
         "session": "container-b",
         "id": 2593781,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Hopdog Beerworks",
@@ -1009,7 +1007,7 @@
         "utbid": 2593782,
         "session": "container-b",
         "id": 2593782,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Hope Brewhouse",
@@ -1021,7 +1019,7 @@
         "utbid": 2593783,
         "session": "container-b",
         "id": 2593783,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Illawarra Brewing Company",
@@ -1033,7 +1031,7 @@
         "utbid": 2593789,
         "session": "container-b",
         "id": 2593789,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Indian Ocean Brewing Co",
@@ -1045,7 +1043,7 @@
         "utbid": 2593791,
         "session": "container-b",
         "id": 2593791,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Kaiju! Beer",
@@ -1057,7 +1055,7 @@
         "utbid": 2593796,
         "session": "container-b",
         "id": 2593796,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Kereru Brewing Company",
@@ -1069,7 +1067,7 @@
         "utbid": 2568895,
         "session": "container-b",
         "id": 2568895,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Last Rites Brewing Company",
@@ -1081,7 +1079,7 @@
         "utbid": 2593810,
         "session": "container-b",
         "id": 2593810,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Laughing Bones Brewing Co",
@@ -1093,7 +1091,7 @@
         "utbid": 2593812,
         "session": "container-b",
         "id": 2593812,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "The Libation Army Brewing Operations",
@@ -1105,7 +1103,7 @@
         "utbid": 2594974,
         "session": "container-b",
         "id": 2594974,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Little Alchemist Brewing Co",
@@ -1117,7 +1115,7 @@
         "utbid": 2593813,
         "session": "container-b",
         "id": 2593813,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Little Bang Brewing Co",
@@ -1129,7 +1127,7 @@
         "utbid": 2593815,
         "session": "container-b",
         "id": 2593815,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Little Creatures",
@@ -1141,7 +1139,7 @@
         "utbid": 2593818,
         "session": "container-b",
         "id": 2593818,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Malt Shed Brewery",
@@ -1153,7 +1151,7 @@
         "utbid": 2594726,
         "session": "container-b",
         "id": 2594726,
-        "metastyle": "#N/A"
+        "metastyle": "Flavoured"
     },
     {
         "brewery": "Malt Shovel Brewery",
@@ -1165,7 +1163,7 @@
         "utbid": 2594732,
         "session": "container-b",
         "id": 2594732,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Mccashin's Brewery",
@@ -1177,7 +1175,7 @@
         "utbid": 2594734,
         "session": "container-b",
         "id": 2594734,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Mcleods Brewery",
@@ -1189,7 +1187,7 @@
         "utbid": 2594754,
         "session": "container-b",
         "id": 2594754,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "The Mill Brewery",
@@ -1201,7 +1199,7 @@
         "utbid": 2595027,
         "session": "container-b",
         "id": 2595027,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Ministry of Beer",
@@ -1213,7 +1211,7 @@
         "utbid": 2594772,
         "session": "container-b",
         "id": 2594772,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Mismatch Brewing Co",
@@ -1225,7 +1223,7 @@
         "utbid": 2594774,
         "session": "container-b",
         "id": 2594774,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Modus Operandi Brewing",
@@ -1237,7 +1235,7 @@
         "utbid": 2594778,
         "session": "container-b",
         "id": 2594778,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Moon dog Craft Brewery",
@@ -1249,7 +1247,7 @@
         "utbid": 2594782,
         "session": "container-b",
         "id": 2594782,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Mornington Peninsula Brewery",
@@ -1261,7 +1259,7 @@
         "utbid": 2594786,
         "session": "container-b",
         "id": 2594786,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Morrison Brewery",
@@ -1273,7 +1271,7 @@
         "utbid": 2594789,
         "session": "container-b",
         "id": 2594789,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Mount Brewing Co",
@@ -1285,7 +1283,7 @@
         "utbid": 2594791,
         "session": "container-b",
         "id": 2594791,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Mountain Goat Beer",
@@ -1297,7 +1295,7 @@
         "utbid": 2594796,
         "session": "container-b",
         "id": 2594796,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Murray's Brewing Co",
@@ -1309,7 +1307,7 @@
         "utbid": 2594801,
         "session": "container-b",
         "id": 2594801,
-        "metastyle": "#N/A"
+        "metastyle": "American"
     },
     {
         "brewery": "New England Brewing Co",
@@ -1321,7 +1319,7 @@
         "utbid": 2594811,
         "session": "container-b",
         "id": 2594811,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Newstead Brewing Co",
@@ -1333,7 +1331,7 @@
         "utbid": 2594815,
         "session": "container-b",
         "id": 2594815,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "North end Brewery",
@@ -1345,7 +1343,7 @@
         "utbid": 2594817,
         "session": "container-b",
         "id": 2594817,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Nowhereman Brewing Co",
@@ -1357,7 +1355,7 @@
         "utbid": 2594820,
         "session": "container-b",
         "id": 2594820,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Ocean Reach Brewing",
@@ -1369,7 +1367,7 @@
         "utbid": 2594822,
         "session": "container-b",
         "id": 2594822,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Ocho Beer",
@@ -1381,7 +1379,7 @@
         "utbid": 2576106,
         "session": "container-b",
         "id": 2576106,
-        "metastyle": "#N/A"
+        "metastyle": "Flavoured"
     },
     {
         "brewery": "Odyssey Craft Brewing Co",
@@ -1393,7 +1391,7 @@
         "utbid": 2594827,
         "session": "container-b",
         "id": 2594827,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Outlier Cartel",
@@ -1405,7 +1403,7 @@
         "utbid": 2503465,
         "session": "container-b",
         "id": 2503465,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Pact Beer Co",
@@ -1417,7 +1415,7 @@
         "utbid": 2594837,
         "session": "container-b",
         "id": 2594837,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Panhead",
@@ -1429,7 +1427,7 @@
         "utbid": 2594841,
         "session": "container-b",
         "id": 2594841,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Piha Beer",
@@ -1441,7 +1439,7 @@
         "utbid": 2594905,
         "session": "container-b",
         "id": 2594905,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Pikes Beer Company",
@@ -1453,7 +1451,7 @@
         "utbid": 2594907,
         "session": "container-b",
         "id": 2594907,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Pink Boots new Zealand",
@@ -1465,7 +1463,7 @@
         "utbid": 2594912,
         "session": "container-c",
         "id": 2594912,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Pioneer Brewing Co",
@@ -1477,7 +1475,7 @@
         "utbid": 2594913,
         "session": "container-c",
         "id": 2594913,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Pirate Life Brewing",
@@ -1489,7 +1487,7 @@
         "utbid": 2594916,
         "session": "container-c",
         "id": 2594916,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Prancing Pony Brewery",
@@ -1501,7 +1499,7 @@
         "utbid": 2594917,
         "session": "container-c",
         "id": 2594917,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "The Public Brewery",
@@ -1513,7 +1511,7 @@
         "utbid": 2595032,
         "session": "container-c",
         "id": 2595032,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Red Duck Beer",
@@ -1525,7 +1523,7 @@
         "utbid": 2594920,
         "session": "container-c",
         "id": 2594920,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Red Hill Brewery",
@@ -1537,7 +1535,7 @@
         "utbid": 2594922,
         "session": "container-c",
         "id": 2594922,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Revel Brewing Co",
@@ -1549,7 +1547,7 @@
         "utbid": 2594923,
         "session": "container-c",
         "id": 2594923,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Rocks Brewing",
@@ -1561,7 +1559,7 @@
         "utbid": 2594925,
         "session": "container-c",
         "id": 2594925,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Sailors Grave Brewing",
@@ -1573,7 +1571,7 @@
         "utbid": 2594928,
         "session": "container-c",
         "id": 2594928,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Sauce Brewing Co",
@@ -1585,7 +1583,7 @@
         "utbid": 2594930,
         "session": "container-c",
         "id": 2594930,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Semi pro Brewing Co",
@@ -1597,7 +1595,7 @@
         "utbid": 2594934,
         "session": "container-c",
         "id": 2594934,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Shambles Brewery",
@@ -1609,7 +1607,7 @@
         "utbid": 2594937,
         "session": "container-c",
         "id": 2594937,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Shark Island",
@@ -1621,7 +1619,7 @@
         "utbid": 2594942,
         "session": "container-c",
         "id": 2594942,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Shedshaker Brewing Castlemaine",
@@ -1633,7 +1631,7 @@
         "utbid": 2594945,
         "session": "container-c",
         "id": 2594945,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Shenanigans Brewing",
@@ -1645,7 +1643,7 @@
         "utbid": 2594947,
         "session": "container-c",
         "id": 2594947,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Shifty Lizard Brewing",
@@ -1657,7 +1655,7 @@
         "utbid": 2594950,
         "session": "container-c",
         "id": 2594950,
-        "metastyle": "#N/A"
+        "metastyle": "Classic"
     },
     {
         "brewery": "Sick Puppy Brewery",
@@ -1669,7 +1667,7 @@
         "utbid": 2594951,
         "session": "container-c",
         "id": 2594951,
-        "metastyle": "#N/A"
+        "metastyle": "American"
     },
     {
         "brewery": "Sierra Nevada Brewing Co",
@@ -1681,7 +1679,7 @@
         "utbid": 0,
         "session": "container-c",
         "id": 0,
-        "metastyle": "#N/A"
+        "metastyle": "Flavoured"
     },
     {
         "brewery": "Six String Brewing Co",
@@ -1693,7 +1691,7 @@
         "utbid": 2594954,
         "session": "container-c",
         "id": 2594954,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Slipstream Brewing Company",
@@ -1705,7 +1703,7 @@
         "utbid": 2594955,
         "session": "container-c",
         "id": 2594955,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Stockade Brew Co",
@@ -1717,7 +1715,7 @@
         "utbid": 2594964,
         "session": "container-c",
         "id": 2594964,
-        "metastyle": "#N/A"
+        "metastyle": "Flavoured"
     },
     {
         "brewery": "Stomping Ground Brewing Co",
@@ -1729,7 +1727,7 @@
         "utbid": 2594965,
         "session": "container-c",
         "id": 2594965,
-        "metastyle": "#N/A"
+        "metastyle": "Classic"
     },
     {
         "brewery": "Tallboy and Moose",
@@ -1741,7 +1739,7 @@
         "utbid": 2594968,
         "session": "container-c",
         "id": 2594968,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Thirsty Crow",
@@ -1753,7 +1751,7 @@
         "utbid": 2595035,
         "session": "container-c",
         "id": 2595035,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Tooborac Brewery",
@@ -1765,7 +1763,7 @@
         "utbid": 2595041,
         "session": "container-c",
         "id": 2595041,
-        "metastyle": "#N/A"
+        "metastyle": "Dark"
     },
     {
         "brewery": "Tuatara Brewing Co",
@@ -1777,7 +1775,7 @@
         "utbid": 2556064,
         "session": "container-c",
         "id": 2556064,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Two Cities Brewing",
@@ -1789,7 +1787,7 @@
         "utbid": 2595058,
         "session": "container-c",
         "id": 2595058,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "Two Heads Brewing",
@@ -1801,7 +1799,7 @@
         "utbid": 2595060,
         "session": "container-c",
         "id": 2595060,
-        "metastyle": "#N/A"
+        "metastyle": "Flavoured"
     },
     {
         "brewery": "Van Dieman Brewing",
@@ -1813,7 +1811,7 @@
         "utbid": 2595062,
         "session": "container-c",
         "id": 2595062,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Watts River Brewing",
@@ -1825,7 +1823,7 @@
         "utbid": 2595064,
         "session": "container-c",
         "id": 2595064,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Wayward Brewing Company",
@@ -1837,7 +1835,7 @@
         "utbid": 2595065,
         "session": "container-c",
         "id": 2595065,
-        "metastyle": "#N/A"
+        "metastyle": "Flavoured"
     },
     {
         "brewery": "Welder's dog Brewing",
@@ -1849,7 +1847,7 @@
         "utbid": 2595066,
         "session": "container-c",
         "id": 2595066,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Westside ale Works",
@@ -1861,7 +1859,7 @@
         "utbid": 2595067,
         "session": "container-c",
         "id": 2595067,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "White Brick Brewing",
@@ -1873,7 +1871,7 @@
         "utbid": 2595069,
         "session": "container-c",
         "id": 2595069,
-        "metastyle": "#N/A"
+        "metastyle": "IPA"
     },
     {
         "brewery": "White Lies Brewing Company",
@@ -1885,7 +1883,7 @@
         "utbid": 2595070,
         "session": "container-c",
         "id": 2595070,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "White Rabbit",
@@ -1897,7 +1895,7 @@
         "utbid": 2595072,
         "session": "container-c",
         "id": 2595072,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Wignall Brewing",
@@ -1909,7 +1907,7 @@
         "utbid": 2595073,
         "session": "container-c",
         "id": 2595073,
-        "metastyle": "#N/A"
+        "metastyle": "Flavoured"
     },
     {
         "brewery": "Willie the Boatman",
@@ -1921,7 +1919,7 @@
         "utbid": 2595077,
         "session": "container-c",
         "id": 2595077,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Wolf of the Willows",
@@ -1933,7 +1931,7 @@
         "utbid": 2595079,
         "session": "container-c",
         "id": 2595079,
-        "metastyle": "#N/A"
+        "metastyle": "Sour"
     },
     {
         "brewery": "Yak Ales",
@@ -1945,7 +1943,7 @@
         "utbid": 2595081,
         "session": "container-c",
         "id": 2595081,
-        "metastyle": "#N/A"
+        "metastyle": "Experimental"
     },
     {
         "brewery": "Young Henrys",
@@ -1957,7 +1955,7 @@
         "utbid": 2595098,
         "session": "container-c",
         "id": 2595098,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Yulli's Brews",
@@ -1969,7 +1967,7 @@
         "utbid": 2595110,
         "session": "container-c",
         "id": 2595110,
-        "metastyle": "#N/A"
+        "metastyle": "European"
     },
     {
         "brewery": "Batlow Cider Co",
@@ -1993,7 +1991,7 @@
         "utbid": 2593726,
         "session": "container-c",
         "id": 2593726,
-        "metastyle": "#N/A"
+        "metastyle": "Cider"
     },
     {
         "brewery": "Devils Brewery",
