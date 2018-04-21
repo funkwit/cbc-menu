@@ -99,10 +99,10 @@
         "style": "Porter",
         "desc": "Inspired by the combination of lebkuchen (a German ginger cake) dark coffee and a dark beer, the team have melded these flavours together. A little spicy and very indulgent.",
         "search": "Search",
-        "utbid": 2593639,
+        "ut_bid": 2593639,
         "session": "container-a",
         "id": 2593639,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "Dark"
     },
     {
@@ -112,10 +112,10 @@
         "style": "New England IPA",
         "desc": "They say they took a 'textbook NE IPA' (there's an NE IPA text book?) and added chocolate, vanilla, lactose, pectin and roasted malt. Creamy dessert-like and plenty of hops. Doing things by their own book.",
         "search": "Search",
-        "utbid": 2593640,
+        "ut_bid": 2593640,
         "session": "container-a",
         "id": 2593640,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "IPA"
     },
     {
@@ -125,10 +125,10 @@
         "style": "Flanders Red Ale",
         "desc": "Part of 4 Pines? Keller Door Barrel Aged program, this is the first beer from the foeders (large wooden barrels set on end) at Newport Public House in Sydney. Fermented with wild yeast from native peach, expect complex aromas of wood and cherry.",
         "search": "Search",
-        "utbid": 2593642,
+        "ut_bid": 2593642,
         "session": "container-a",
         "id": 2593642,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "Sour"
     },
     {
@@ -138,10 +138,10 @@
         "style": "Belgian Quad",
         "desc": "The storm is coming in this Belgian Quad with deep states of flavour in every drop. 7 Cent has aged this in ex-American Bourbon barrels with a blend of secret herbs and spices.",
         "search": "Search",
-        "utbid": 2593645,
+        "ut_bid": 2593645,
         "session": "container-a",
         "id": 2593645,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "European"
     },
     {
@@ -151,10 +151,10 @@
         "style": "Kettle Sour",
         "desc": "When 8 Wired does fruited sours, it's always a good idea to pay attention. This Hendrix inspired Kettle Sour is fermented on apricots and has a lovely dose of Riwaka hops.",
         "search": "Search",
-        "utbid": 2593649,
+        "ut_bid": 2593649,
         "session": "container-a",
         "id": 2593649,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "Sour"
     },
     {
@@ -164,10 +164,10 @@
         "style": "Sweet Stout",
         "desc": "Cherries roasted over old Jack Daniels barrels, marshmallow, cocoa nibs, and new American Oak staves have been added to give this Stout an intense desert boost, with hints of smoke and vanilla laced bitterness.",
         "search": "Search",
-        "utbid": 2593650,
+        "ut_bid": 2593650,
         "session": "container-a",
         "id": 2593650,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "Dark"
     },
     {
@@ -177,10 +177,10 @@
         "style": "IPA (Specialty)",
         "desc": "Australia's four champion breweries from the Australian International Beer Awards (AIBA); Stone & Wood, Balter, Green Beacon and Pact have joined forces to brew a tart passionfruit IPA. A one only time offer to enjoy this delicious brew.",
         "search": "Search",
-        "utbid": 2593651,
+        "ut_bid": 2593651,
         "session": "container-a",
         "id": 2593651,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "IPA"
     },
     {
@@ -190,10 +190,10 @@
         "style": "American IPA",
         "desc": "Akasha is a brewery well known for its big, hoppy West Coast IPAs. This is its biggest yet and at 12% they are calling it a 'quadruple' IPA. Explosions of tropical fruit and citrus.",
         "search": "Search",
-        "utbid": 2593654,
+        "ut_bid": 2593654,
         "session": "container-a",
         "id": 2593654,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "IPA"
     },
     {
@@ -203,10 +203,10 @@
         "style": "American Stout",
         "desc": "With a Stout base, Alibi added dark muscovado sugar, oranges, and a sugar orange reduction; before ageing it all in bourbon barrels. It's an Old Fashioned, in beer form.",
         "search": "Search",
-        "utbid": 2593655,
+        "ut_bid": 2593655,
         "session": "container-a",
         "id": 2593655,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "Dark"
     },
     {
@@ -216,10 +216,10 @@
         "style": "Specialty Beer",
         "desc": "The team at All Inn have created a kettle soured lemon Lager with lemon myrtle. Expect a refreshing citrus sourness not usually found in lager styles.",
         "search": "Search",
-        "utbid": 2593656,
+        "ut_bid": 2593656,
         "session": "container-a",
         "id": 2593656,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "Experimental"
     },
     {
@@ -229,10 +229,10 @@
         "style": "Spice, Herb, or Vegetable Beer",
         "desc": "Gruit is used to descibe beer flavoured with a spice and herb blend, rather than hops. For their version, Altitude has used juniper, lavender and cherrry bark. Floral nose, with a dry chardonnay-style finish.",
         "search": "Search",
-        "utbid": 2593658,
+        "ut_bid": 2593658,
         "session": "container-a",
         "id": 2593658,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "Flavoured"
     },
     {
@@ -242,10 +242,10 @@
         "style": "Russian Imperial Stout",
         "desc": "This beer has been waiting patiently for three years. It was first brewed in 2015, before being aged in ex-bourbon barrels. Now this 11.5% Imperial Stout is ready for GABS. Are you ready for it?",
         "search": "Search",
-        "utbid": 2593661,
+        "ut_bid": 2593661,
         "session": "container-a",
         "id": 2593661,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "Dark"
     },
     {
@@ -255,10 +255,10 @@
         "style": "Brown Ale (UK-style)",
         "desc": "A tribute to the Violet Crumble, the brewery has used honey, caramel and lactose. The underlying Brown Ale gives it a chocolate base, while the rest of the ingredients help recreate the Aussie classic.",
         "search": "Search",
-        "utbid": 2593662,
+        "ut_bid": 2593662,
         "session": "container-a",
         "id": 2593662,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "European"
     },
     {
@@ -268,10 +268,10 @@
         "style": "Porter",
         "desc": "Australia's best amateur brewer, Ben Tearne, has bought his award winning Chocolate Porter recipe. If you think you don't like dark beer, then this is the one that will change your mind.",
         "search": "Search",
-        "utbid": 0,
+        "ut_bid": 0,
         "session": "container-a",
         "id": 0,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "Dark"
     },
     {
@@ -281,10 +281,10 @@
         "style": "IPA (Specialty)",
         "desc": "A clean malt base lets this double drop of NZ and German hops shine. A combination of wine and ale yeast means a lovely, unique, ferment to round it all out. Expect berry, citrus and tropical fruit flavours.",
         "search": "Search",
-        "utbid": 2593663,
+        "ut_bid": 2593663,
         "session": "container-a",
         "id": 2593663,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "IPA"
     },
     {
@@ -294,10 +294,10 @@
         "style": "American IPA",
         "desc": "Mash hops, hop oil, whole cones, lupulin powder, fermentation hops, dry hops AND aged on Cedar. If you don't know what that means, just know it'll be crammed with flavour, bitterness and an extra hit of citrus from grapefruit and orange zest.",
         "search": "Search",
-        "utbid": 2593668,
+        "ut_bid": 2593668,
         "session": "container-a",
         "id": 2593668,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "IPA"
     },
     {
@@ -307,10 +307,10 @@
         "style": "Scotch Ale/Wee Heavy",
         "desc": "Winner of Craftd Homebrew comp Nick Meumann is given the chance to let his recipe shine on a grand scale. It's a rich, malty and complex Scotch Ale, that's smooth as the undisturbed surface of Loch Ness.",
         "search": "Search",
-        "utbid": 2593669,
+        "ut_bid": 2593669,
         "session": "container-a",
         "id": 2593669,
-        "sessionsyd": "container-a",
+        "session-syd": "container-a",
         "metastyle": "Classic"
     },
     {
@@ -320,7 +320,7 @@
         "style": "Christmas/Winter Specialty Spiced Beer",
         "desc": "Barossa tell us they are using their mum's fruit cake recipe for for this one, but what's in it is a well guarded secret. Expect a luscious, sweet beer with notes of whisky and fruity spice.",
         "search": "Search",
-        "utbid": 0,
+        "ut_bid": 0,
         "session": "container-a",
         "id": 0,
         "metastyle": "Flavoured"
@@ -332,7 +332,7 @@
         "style": "American Brown Ale",
         "desc": "A hint of vanilla is added to a classic easy drinking Brown Ale. There's a slight sweetness, smooth bitterness and a gentle vanilla edge.",
         "search": "Search",
-        "utbid": 2593676,
+        "ut_bid": 2593676,
         "session": "container-a",
         "id": 2593676,
         "metastyle": "American"
@@ -344,7 +344,7 @@
         "style": "Saison/Farmhouse Ale",
         "desc": "Ever heard of cascara? It's the fruit that you find coffee beans in. The coffee byproduct has become a popular ingredient in beer and here Batch are combining it with hemp seeds. A unique combo of flavour in this Brown Ale.",
         "search": "Search",
-        "utbid": 2593677,
+        "ut_bid": 2593677,
         "session": "container-a",
         "id": 2593677,
         "metastyle": "European"
@@ -356,7 +356,7 @@
         "style": "Foreign Extra Stout",
         "desc": "While the popular Pacific Oysters are in global shortage (due to the Pacific Oyster Mortality Syndrome), the Coffin Bay Angasi Oyster has proved resilient, so the Beer Garden team give it a chance to shine in a flavourful Oyster Stout.",
         "search": "Search",
-        "utbid": 2593681,
+        "ut_bid": 2593681,
         "session": "container-a",
         "id": 2593681,
         "metastyle": "Dark"
@@ -368,7 +368,7 @@
         "style": "Kettle Sour",
         "desc": "A beer on the darker side of sours; blood lime, dark and bitter chocolate and an extra sour hit from rhubarb wrenched screaming from the Beerfarm garden. Wrapped in a devilishly smooth nitro blanket.",
         "search": "Search",
-        "utbid": 2593683,
+        "ut_bid": 2593683,
         "session": "container-a",
         "id": 2593683,
         "metastyle": "Sour"
@@ -380,7 +380,7 @@
         "style": "Gose",
         "desc": "Teahupo'o is one of the cleanest and meanest surf breaks in the world (seriously, Youtube it, it's insane). Here the Bells team have honoured the break by using seawater, and tropical fruits to create a crisp, clean and refreshing Gose.",
         "search": "Search",
-        "utbid": 2593684,
+        "ut_bid": 2593684,
         "session": "container-a",
         "id": 2593684,
         "metastyle": "Sour"
@@ -392,7 +392,7 @@
         "style": "Mixed-Fermentation Sour Beer",
         "desc": "Last GABS, Bentspoke had 'Joe Carb' and it was funky. 'Baby Huey - Hard Times' funky. Somehow they've made it funkier, and aged it in Shiraz barrels. Expect weird, controversial, infamous funk levels on this.",
         "search": "Search",
-        "utbid": 2593686,
+        "ut_bid": 2593686,
         "session": "container-a",
         "id": 2593686,
         "metastyle": "Sour"
@@ -404,7 +404,7 @@
         "style": "New England IPA",
         "desc": "The 'sweet things on a stick as beer' legends, who bought you Golden Stout Time in 2015, are back with their beery NE IPA take on Frosty Fruits. It promises to be summer by the pint.",
         "search": "Search",
-        "utbid": 2593687,
+        "ut_bid": 2593687,
         "session": "container-a",
         "id": 2593687,
         "metastyle": "IPA"
@@ -416,7 +416,7 @@
         "style": "Sweet Stout",
         "desc": "The regular Bao Bao from Black is 4.5%. This is over double that and is badder, with additions of cinnamon and oats. Expect thick, boozy, and soft. Doesn't sound that bad...",
         "search": "Search",
-        "utbid": 2593694,
+        "ut_bid": 2593694,
         "session": "container-a",
         "id": 2593694,
         "metastyle": "Dark"
@@ -428,7 +428,7 @@
         "style": "Weizenbock",
         "desc": "Strong, dark, wheat beer from a brewery who has been doing Euro styles since 2003. It takes a lot of experience to nail this style and we're in safe hands here (literally, the brewer is also a heart surgeon).",
         "search": "Search",
-        "utbid": 2593695,
+        "ut_bid": 2593695,
         "session": "container-a",
         "id": 2593695,
         "metastyle": "European"
@@ -440,7 +440,7 @@
         "style": "Saison/Farmhouse Ale",
         "desc": "A late night spice run to Tijuana has resulted in a cinnamon, orange peel and star anise spiced Saison. For a local twist, it's been aged in South Australian Grenache barrels.",
         "search": "Search",
-        "utbid": 2593697,
+        "ut_bid": 2593697,
         "session": "container-a",
         "id": 2593697,
         "metastyle": "European"
@@ -452,7 +452,7 @@
         "style": "Gose",
         "desc": "Perhaps one of the most unusual beers to grace GABS, the team at Blackman?s Brewery in Torquay have crafted a dry-hopped Gose style beer with Great Ocean Road snails, parsley, thyme and pine nuts. Will you ?Gose? there?",
         "search": "Search",
-        "utbid": 2593698,
+        "ut_bid": 2593698,
         "session": "container-a",
         "id": 2593698,
         "metastyle": "Sour"
@@ -464,7 +464,7 @@
         "style": "Belgian Dubbel",
         "desc": "Bonehead combined a few beers from their range into this hybrid monster. There are prickly pears, pomegranate and plenty of hops added late in the piece. New England IPA-meets-Belgian Blonde-meets-Sicilian market garden. Sounds pretty fun to us.",
         "search": "Search",
-        "utbid": 2593699,
+        "ut_bid": 2593699,
         "session": "container-a",
         "id": 2593699,
         "metastyle": "European"
@@ -476,7 +476,7 @@
         "style": "Black IPA",
         "desc": "A lovely citrus and roast profile has been barrel aged in Leeuwin Estate red wine barrels and dosed with cold brew coffee from That Cold Stuff. A curious combination with layers and depth.",
         "search": "Search",
-        "utbid": 2593701,
+        "ut_bid": 2593701,
         "session": "container-a",
         "id": 2593701,
         "metastyle": "IPA"
@@ -488,7 +488,7 @@
         "style": "American Lager",
         "desc": "The Fiji tropical sun inspired this hibiscus and honey infused lager. Named after the Fijian word for pink, expect pink hues, a floral aroma, with a crisp finish and a little hint of honey at the end.",
         "search": "Search",
-        "utbid": 2593703,
+        "ut_bid": 2593703,
         "session": "container-a",
         "id": 2593703,
         "metastyle": "American"
@@ -500,7 +500,7 @@
         "style": "Belgian Tripel",
         "desc": "A triple treat of decadence in this boozy Belgian style. Rum, raisin, and the traditional strong tripel-styled beer. Expect warm richness and plump raisin sweetness all underpinned by distinct spicy yeast.",
         "search": "Search",
-        "utbid": 2593704,
+        "ut_bid": 2593704,
         "session": "container-a",
         "id": 2593704,
         "metastyle": "European"
@@ -512,7 +512,7 @@
         "style": "American IPA",
         "desc": "This IPA has been made with an addition of half a pallet of imported Thai Red Bull (you know, the good stuff with the gold label). Good luck getting to sleep after this one.",
         "search": "Search",
-        "utbid": 2593705,
+        "ut_bid": 2593705,
         "session": "container-a",
         "id": 2593705,
         "metastyle": "IPA"
@@ -524,7 +524,7 @@
         "style": "Saison/Farmhouse Ale",
         "desc": "In this unique take on a classic farmhouse-style ale, they've made a black version of the typically light Saison, and dosed it with a hit of locally sourced lavender.",
         "search": "Search",
-        "utbid": 2593707,
+        "ut_bid": 2593707,
         "session": "container-a",
         "id": 2593707,
         "metastyle": "European"
@@ -536,7 +536,7 @@
         "style": "Soured Fruit Beer",
         "desc": "When life gives you pineapples, make beer. A soured ale, with toffee and caramel malt flavours, it has been infused with fresh pressed pineapple juice then aged in rum barrels.",
         "search": "Search",
-        "utbid": 2593711,
+        "ut_bid": 2593711,
         "session": "container-a",
         "id": 2593711,
         "metastyle": "Sour"
@@ -548,7 +548,7 @@
         "style": "Experimental Beer",
         "desc": "This is an homage to the classic Asian laksa. Rich, full bodied ale with flavours of fresh coconut, lemongrass, lime, ginger and coriander.",
         "search": "Search",
-        "utbid": 2593712,
+        "ut_bid": 2593712,
         "session": "container-a",
         "id": 2593712,
         "metastyle": "Experimental"
@@ -560,7 +560,7 @@
         "style": "Fruit Beer",
         "desc": "With blackberry from Westerway (Tasmania) and oats sourced from a nearby farm, this is inspired by seasonal produce. It's a rich Stout with a lovely smooth underlying berry character.",
         "search": "Search",
-        "utbid": 2593713,
+        "ut_bid": 2593713,
         "session": "container-a",
         "id": 2593713,
         "metastyle": "Flavoured"
@@ -572,7 +572,7 @@
         "style": "Kettle Sour",
         "desc": "The team have soured their New England style IPA and dosed it with a secret ingredient to create a green, sour hazy beer.",
         "search": "Search",
-        "utbid": 2593715,
+        "ut_bid": 2593715,
         "session": "container-a",
         "id": 2593715,
         "metastyle": "Sour"
@@ -584,7 +584,7 @@
         "style": "Porter",
         "desc": "At its core, its a beautiful Porter, with Fijian sourced cocoa nibs, and lactose sugar, creating what the brewery describes as 'Easter for grown ups'.",
         "search": "Search",
-        "utbid": 2593719,
+        "ut_bid": 2593719,
         "session": "container-a",
         "id": 2593719,
         "metastyle": "Dark"
@@ -596,7 +596,7 @@
         "style": "New England IPA",
         "desc": "Alright stop. Collaborate and listen. This vanilla ice cream New England IPA is juicy and creamy. Made with Piccolina Gelateria ice cream, and served with a slushy head.",
         "search": "Search",
-        "utbid": 2593720,
+        "ut_bid": 2593720,
         "session": "container-a",
         "id": 2593720,
         "metastyle": "IPA"
@@ -608,7 +608,7 @@
         "style": "American Wheat",
         "desc": "Bartender Ryan makes a ripper of a strawberry, rosemary and vodka cocktail. He wondered if it would work as beer. Find out for yourself in this wheat beer crammed full of strawberry and local rosemary.",
         "search": "Search",
-        "utbid": 2593721,
+        "ut_bid": 2593721,
         "session": "container-a",
         "id": 2593721,
         "metastyle": "American"
@@ -620,7 +620,7 @@
         "style": "Red IPA",
         "desc": "With 100% Kiwi ingredients, this is a big beer. Big juicy red malts, big hoppy flavours and big bitterness. Balanced, with a hint of spice.",
         "search": "Search",
-        "utbid": 2593722,
+        "ut_bid": 2593722,
         "session": "container-a",
         "id": 2593722,
         "metastyle": "IPA"
@@ -632,7 +632,7 @@
         "style": "Berliner Weisse",
         "desc": "This kettle-soured Berliner has blackcurrants added throughout the brewing and fermenting process. We can't say for sure if they added a dose of vitamin C, but we can say it's a dose of delicious.",
         "search": "Search",
-        "utbid": 2593727,
+        "ut_bid": 2593727,
         "session": "container-a",
         "id": 2593727,
         "metastyle": "Sour"
@@ -644,7 +644,7 @@
         "style": "New England IPA",
         "desc": "Chur has been making some of the juicieist IPAs in the game lately. Here they've added grapefruit and orange zest to a juicy US and NZ hopped New England IPA.",
         "search": "Search",
-        "utbid": 2593728,
+        "ut_bid": 2593728,
         "session": "container-a",
         "id": 2593728,
         "metastyle": "IPA"
@@ -656,7 +656,7 @@
         "style": "Double IPA",
         "desc": "Coastal Brewing Co's Treachery XPA became a cult favourite amongst their fans when it was released in 2017. So for GABS, they figured they'd give you double what you love: Double hops, double malt, double ABV.",
         "search": "Search",
-        "utbid": 2594970,
+        "ut_bid": 2594970,
         "session": "container-a",
         "id": 2594970,
         "metastyle": "IPA"
@@ -668,7 +668,7 @@
         "style": "Belgian Quad",
         "desc": "With a whiff of waffle and a flash of figs, this dark, complex malt-driven number makes for the perfect breakfast beer.",
         "search": "Search",
-        "utbid": 2593730,
+        "ut_bid": 2593730,
         "session": "container-a",
         "id": 2593730,
         "metastyle": "European"
@@ -680,7 +680,7 @@
         "style": "American Amber Ale",
         "desc": "Bertie Beetles, a Violet Crumble byproduct, were first made in the building that houses Colonial's Melbourne brewery. In honour, they've added them right into the beer, with chocolate, honey and rum. Get ready to rumble.",
         "search": "Search",
-        "utbid": 2593732,
+        "ut_bid": 2593732,
         "session": "container-a",
         "id": 2593732,
         "metastyle": "American"
@@ -692,7 +692,7 @@
         "style": "Double IPA",
         "desc": "Forget G & T. This is a G & B. As one of Australia?s only brewer distillers, Craft & Co have combined both to create a Double IPA brewed with resinous hops, gin botanicals, and a dash of Collingwood Dry Gin.",
         "search": "Search",
-        "utbid": 2594972,
+        "ut_bid": 2594972,
         "session": "container-a",
         "id": 2594972,
         "metastyle": "IPA"
@@ -704,7 +704,7 @@
         "style": "New England IPA",
         "desc": "Life can be ?all beer and skittles? when it comes to GABS. This combines sweet juiciness of a New England IPA, with actual Skittles and a big whack of cherries. Drink the rainbow!",
         "search": "Search",
-        "utbid": 2593734,
+        "ut_bid": 2593734,
         "session": "container-a",
         "id": 2593734,
         "metastyle": "IPA"
@@ -716,7 +716,7 @@
         "style": "New England IPA",
         "desc": "Yeah ok, there are a few New England IPAs in this list, but this is the only one with Sav Blanc juice added mid-fermentation. Low bitterness, white wine flavours, and a creamy soft finish. We know you want it.",
         "search": "Search",
-        "utbid": 2593736,
+        "ut_bid": 2593736,
         "session": "container-a",
         "id": 2593736,
         "metastyle": "IPA"
@@ -728,7 +728,7 @@
         "style": "Berliner Weisse",
         "desc": "A Berliner Weisse that's full of Kiwi summer fruit - nectarines, peaches and apricots. Expect layers of sweet fruit and a lovely tart finish.",
         "search": "Search",
-        "utbid": 2593737,
+        "ut_bid": 2593737,
         "session": "container-a",
         "id": 2593737,
         "metastyle": "Sour"
@@ -740,7 +740,7 @@
         "style": "New World Pilsener",
         "desc": "With influence from that famous Mexican lager (you know the one), Devils Brewery has made an easy drinking pale lager and dosed it with local Tassie hops and a bunch of lemon zest.",
         "search": "Search",
-        "utbid": 2593739,
+        "ut_bid": 2593739,
         "session": "container-a",
         "id": 2593739,
         "metastyle": "American"
@@ -752,7 +752,7 @@
         "style": "Saison/Farmhouse Ale",
         "desc": "In the tradition of classic Saison ('season' in French) brewing, this farmhouse style ale is made with locally picked Satsuma plums, local pecans and honey. Seasonal brewing at its best.",
         "search": "Search",
-        "utbid": 2593742,
+        "ut_bid": 2593742,
         "session": "container-a",
         "id": 2593742,
         "metastyle": "European"
@@ -764,7 +764,7 @@
         "style": "Cream Ale",
         "desc": "Pistachios and beer is an amazing combination, and it would be better if weren't for all those darn shells. Fortunately there is a better way. Put them in the beer!",
         "search": "Search",
-        "utbid": 2593745,
+        "ut_bid": 2593745,
         "session": "container-a",
         "id": 2593745,
         "metastyle": "Classic"
@@ -776,7 +776,7 @@
         "style": "Soured Fruit Beer",
         "desc": "A clean, crisp and fruity sour beer with a bone dry body and citrus edge. Brewed with fresh apple, pear, pineapple, orange and blackcurrants, and finished with native desert lime.",
         "search": "Search",
-        "utbid": 2593746,
+        "ut_bid": 2593746,
         "session": "container-a",
         "id": 2593746,
         "metastyle": "Sour"
@@ -788,7 +788,7 @@
         "style": "Foreign Extra Stout",
         "desc": "You know that warm and fuzzy feeling you get after a few beers, especially when it?s cold outside, and you didn?t bring a jacket? Like you?re invincible to the cold. Beware the false warmth of the ?beer blanket?. Stay inside and enjoy responsibly.",
         "search": "Search",
-        "utbid": 2593748,
+        "ut_bid": 2593748,
         "session": "container-b",
         "id": 2593748,
         "metastyle": "Dark"
@@ -800,7 +800,7 @@
         "style": "New England IPA",
         "desc": "With Weet-Bix, Frosted Flakes, Froot Loops, All Bran, Nutri-Grain, and Cornflakes, this is a true breakfast juice. It smells like tropical fruit, looks like orange juice, tastes like sweet cereal, and is sure to get your day started just right.",
         "search": "Search",
-        "utbid": 2593749,
+        "ut_bid": 2593749,
         "session": "container-b",
         "id": 2593749,
         "metastyle": "IPA"
@@ -812,7 +812,7 @@
         "style": "Saison/Farmhouse Ale",
         "desc": "The working class French Saison, designed for farmhouse refreshment, has been combined here with the botanicals of new world Aussie gin. It's zesty, refreshing, and has a dry finish.",
         "search": "Search",
-        "utbid": 2593753,
+        "ut_bid": 2593753,
         "session": "container-b",
         "id": 2593753,
         "metastyle": "European"
@@ -824,7 +824,7 @@
         "style": "Saison/Farmhouse Ale",
         "desc": "Durian - a fruit so controversial it's banned in some hotels and by public transport providers in southeast Asia. Foreigner believe it's a bit misunderstood and here it adds a tropical fruit character to funky Saison.",
         "search": "Search",
-        "utbid": 2593755,
+        "ut_bid": 2593755,
         "session": "container-b",
         "id": 2593755,
         "metastyle": "European"
@@ -836,7 +836,7 @@
         "style": "Experimental Beer",
         "desc": "Among the hinterland alongside the Great Ocean Road, the Forrest team went foraging for their Festival Beer ingredients. Think wild hops, nettles, blackberries and pepperberry.",
         "search": "Search",
-        "utbid": 2593756,
+        "ut_bid": 2593756,
         "session": "container-b",
         "id": 2593756,
         "metastyle": "Experimental"
@@ -848,7 +848,7 @@
         "style": "American Wheat",
         "desc": "Fresh Adelaide Hills strawberries added throughout the brewing process showcase both the colour and gentle sweetness of the fruit. This is served under nitrogen too, so it'll be delightfully creamy, pink, and a ton of fun.",
         "search": "Search",
-        "utbid": 2593762,
+        "ut_bid": 2593762,
         "session": "container-b",
         "id": 2593762,
         "metastyle": "American"
@@ -860,7 +860,7 @@
         "style": "Bière de Garde",
         "desc": "Espelette is a delicate and fragrant spice that the Frenchie's head chef loves, so they've used it in this traditional French Bi?re de Garde style. It's then aged in Cognac barrels. Expect oaky vanilla, spice and a toasty malt flavour.",
         "search": "Search",
-        "utbid": 2593763,
+        "ut_bid": 2593763,
         "session": "container-b",
         "id": 2593763,
         "metastyle": "European"
@@ -872,7 +872,7 @@
         "style": "Kettle Sour",
         "desc": "Funk Estate describe this as a 'turbo version of classic shandy in sour beer form'. The beer has been kettle soured and crammed with lemon. It's a shandy but bigger, more tart and lemony AF.",
         "search": "Search",
-        "utbid": 2593764,
+        "ut_bid": 2593764,
         "session": "container-b",
         "id": 2593764,
         "metastyle": "Sour"
@@ -884,7 +884,7 @@
         "style": "Experimental Beer",
         "desc": "Laced with cinnamon, vanilla, nutmeg and honey, this Greek-inspired treat is the perfect nightcap after a late night gyros!",
         "search": "Search",
-        "utbid": 2593766,
+        "ut_bid": 2593766,
         "session": "container-b",
         "id": 2593766,
         "metastyle": "Experimental"
@@ -896,7 +896,7 @@
         "style": "New England IPA",
         "desc": "Super hoppy and hazy IPA with Nelson and Galaxy hops, and a big old dose of blood orange, mango and grapefruit. OMG! Ah, we see what they did there.",
         "search": "Search",
-        "utbid": 2593767,
+        "ut_bid": 2593767,
         "session": "container-b",
         "id": 2593767,
         "metastyle": "IPA"
@@ -908,7 +908,7 @@
         "style": "Red IPA",
         "desc": "Perfect for cooler GABS nights, Goose Island's Red IPA provides all the hoppiness of an IPA but with an extra depth of flavour from crystal malts. Expect light toffee notes in this winter warmer.",
         "search": "Search",
-        "utbid": 2593770,
+        "ut_bid": 2593770,
         "session": "container-b",
         "id": 2593770,
         "metastyle": "IPA"
@@ -920,7 +920,7 @@
         "style": "Specialty Beer",
         "desc": "To celebrate the brewery converting to solar power, Grand Ridge released its Solar Aussie Lager. For GABS, they've given it a Margarita treatment with aged Tequila, lime zest and citrus.",
         "search": "Search",
-        "utbid": 2593772,
+        "ut_bid": 2593772,
         "session": "container-b",
         "id": 2593772,
         "metastyle": "Experimental"
@@ -932,7 +932,7 @@
         "style": "IPA (Specialty)",
         "desc": "With vanilla and lactose, this is inspired by Parfait desserts. The guava and passionfruit accent the hops, and the result is a creamy, sweet, delicious IPA.",
         "search": "Search",
-        "utbid": 2593773,
+        "ut_bid": 2593773,
         "session": "container-b",
         "id": 2593773,
         "metastyle": "IPA"
@@ -944,7 +944,7 @@
         "style": "Dry Hopped Sour",
         "desc": "The brewery describes this as having a 'potent pink grapefruit and lime rind' aroma. It's kettle soured, and is packed full of fruit and citrus flavours. Thirst quenchingly tart.",
         "search": "Search",
-        "utbid": 2593774,
+        "ut_bid": 2593774,
         "session": "container-b",
         "id": 2593774,
         "metastyle": "Sour"
@@ -956,7 +956,7 @@
         "style": "Soured Fruit Beer",
         "desc": "A trans-Tasman collaboration between three of Australia and New Zealand?s most loved breweries has produced this delicious sour raspberry IPA, with a touch of lactose for a bit of ",
         "search": "Search",
-        "utbid": 2593775,
+        "ut_bid": 2593775,
         "session": "container-b",
         "id": 2593775,
         "metastyle": "Sour"
@@ -968,7 +968,7 @@
         "style": "Sweet Stout",
         "desc": "With a Sweet Stout base, Heyday have incorporated the flavours of Amaretto which is a sweet Italian liqueur made from apricot pits and almonds. A gorgeous take on two classic drinks.",
         "search": "Search",
-        "utbid": 2595961,
+        "ut_bid": 2595961,
         "session": "container-b",
         "id": 2595961,
         "metastyle": "Dark"
@@ -980,7 +980,7 @@
         "style": "Specialty Beer",
         "desc": "Brewed to give courage and inspire a victorious outcome to all those overwhelmed by choice. It's also infused with rum soaked oak from the Lark Distillery. Rum AND inspiration? What more do you need?",
         "search": "Search",
-        "utbid": 2593779,
+        "ut_bid": 2593779,
         "session": "container-b",
         "id": 2593779,
         "metastyle": "Experimental"
@@ -992,7 +992,7 @@
         "style": "Mixed-Fermentation Sour Beer",
         "desc": "Hop Nation?s winemaking background comes to the fore here with this kettle soured Blonde Ale that has been fermented and aged on French oak for five months.",
         "search": "Search",
-        "utbid": 2593781,
+        "ut_bid": 2593781,
         "session": "container-b",
         "id": 2593781,
         "metastyle": "Sour"
@@ -1004,7 +1004,7 @@
         "style": "Specialty Beer",
         "desc": "HopDog tell us this is sour, tart, horsey, wild, and funky. It's a kettle sour, brett fermented Golden Ale, with a bit of citrus added and plenty of hop aroma. Sounds intense, if we're honest.",
         "search": "Search",
-        "utbid": 2593782,
+        "ut_bid": 2593782,
         "session": "container-b",
         "id": 2593782,
         "metastyle": "Experimental"
@@ -1016,7 +1016,7 @@
         "style": "New England IPA",
         "desc": "Super Juicy is Hope's take on New England IPA and for GABS they've made it wet... by adding wet (unprocessed hops available only in season) hops. Plus a bit of rye for spice and body.",
         "search": "Search",
-        "utbid": 2593783,
+        "ut_bid": 2593783,
         "session": "container-b",
         "id": 2593783,
         "metastyle": "IPA"
@@ -1028,7 +1028,7 @@
         "style": "Kettle Sour",
         "desc": "Combining kettle sour techniques, and hop hash (a potent hop production byproduct), this will be juicy, tart and gently sour.",
         "search": "Search",
-        "utbid": 2593789,
+        "ut_bid": 2593789,
         "session": "container-b",
         "id": 2593789,
         "metastyle": "Sour"
@@ -1040,7 +1040,7 @@
         "style": "Saison/Farmhouse Ale",
         "desc": "Kettle souring, combined with funky yeast and a bit of blending gives this a classic Belgian yeast character, a touch of tartness, and a sparkling dry finish.",
         "search": "Search",
-        "utbid": 2593791,
+        "ut_bid": 2593791,
         "session": "container-b",
         "id": 2593791,
         "metastyle": "European"
@@ -1052,7 +1052,7 @@
         "style": "American IPA",
         "desc": "Those crazy KAIJU! kids are calling this one an 'India Ultra Pale Ale'. Ultra clean, ultra hoppy, ultra good. Probably ultra pale too. Pretty ultra.",
         "search": "Search",
-        "utbid": 2593796,
+        "ut_bid": 2593796,
         "session": "container-b",
         "id": 2593796,
         "metastyle": "IPA"
@@ -1064,7 +1064,7 @@
         "style": "Specialty Beer",
         "desc": "A malty ale that has been infused with dates and pomegranate. It was inspired by an ancient Egyptian beer recipe and Hathor, goddess of cows, love, hospitality and (of course), beer.",
         "search": "Search",
-        "utbid": 2568895,
+        "ut_bid": 2568895,
         "session": "container-b",
         "id": 2568895,
         "metastyle": "Experimental"
@@ -1076,7 +1076,7 @@
         "style": "Sweet Stout",
         "desc": "Let them take you back to your childhood memories of chomping on a Chomp bar. The Last Rites team love 'em, so they've stuck them in a beer. Just normal GABS things.",
         "search": "Search",
-        "utbid": 2593810,
+        "ut_bid": 2593810,
         "session": "container-b",
         "id": 2593810,
         "metastyle": "Dark"
@@ -1088,7 +1088,7 @@
         "style": "Saison/Farmhouse Ale",
         "desc": "Foraged horopito and kawakawa, two NZ herbs from the peppertree family, and a dash of naturtium leaf make this is a herbacious nod to classic farmhouse beers. Spicy, dry, and bright.",
         "search": "Search",
-        "utbid": 2593812,
+        "ut_bid": 2593812,
         "session": "container-b",
         "id": 2593812,
         "metastyle": "European"
@@ -1100,7 +1100,7 @@
         "style": "Irish-style Dry Stout",
         "desc": "Persi Pien (translation: filled peach) is an Italian dessert from Piedmont, Italy, where the brewer hails from. This is a beer take on that. Roasted malt base, peaches, Kiwi hops and a dash of Amaretto.",
         "search": "Search",
-        "utbid": 2594974,
+        "ut_bid": 2594974,
         "session": "container-b",
         "id": 2594974,
         "metastyle": "Dark"
@@ -1112,7 +1112,7 @@
         "style": "IPA (Specialty)",
         "desc": "Butterfly pea flowers are a fascinating ingredient. The blue flowers give all sorts of colour to a liquid, depending on the acidity. A big, hoppy, IPA that just happens to be purple.",
         "search": "Search",
-        "utbid": 2593813,
+        "ut_bid": 2593813,
         "session": "container-b",
         "id": 2593813,
         "metastyle": "IPA"
@@ -1124,7 +1124,7 @@
         "style": "Specialty Beer",
         "desc": "When you take one of the country's most loved Barleywines, Galactopus, and freeze distill it, what do you get? Something called Sasquoctopus apparently. 20.2%, smooth, fruity and rich.",
         "search": "Search",
-        "utbid": 2593815,
+        "ut_bid": 2593815,
         "session": "container-b",
         "id": 2593815,
         "metastyle": "Experimental"
@@ -1136,7 +1136,7 @@
         "style": "Schwarzbier",
         "desc": "This big, dark number has been brewed in collaboration with Perth chocolatier Sue Lewis. It uses cocoa husks (a byproduct of chocolate production), to marry complex chocolate aromas with the cleansing nature of a Lager.",
         "search": "Search",
-        "utbid": 2593818,
+        "ut_bid": 2593818,
         "session": "container-b",
         "id": 2593818,
         "metastyle": "European"
@@ -1148,7 +1148,7 @@
         "style": "Christmas/Winter Specialty Spiced Beer",
         "desc": "Remember Aussie Jingle Bells, that cracker of a local carol? Malt Shed has reimagined it, as beer. Spice and muscat oak to create a gorgeous festive brown ale. Oh what fun it is to ride in a rusty Holden Ute!",
         "search": "Search",
-        "utbid": 2594726,
+        "ut_bid": 2594726,
         "session": "container-b",
         "id": 2594726,
         "metastyle": "Flavoured"
@@ -1160,7 +1160,7 @@
         "style": "Soured Fruit Beer",
         "desc": "A beer that the brewers made to remind them of summer. Inspired by Pina Colada, it has added coconut and pineapple to a soured base.",
         "search": "Search",
-        "utbid": 2594732,
+        "ut_bid": 2594732,
         "session": "container-b",
         "id": 2594732,
         "metastyle": "Sour"
@@ -1172,7 +1172,7 @@
         "style": "Sweet Stout",
         "desc": "McCashin's has worked with the food scientists at Appleby Farms ice cream to create the creamiest Milk Stout it could make. The describe this one as 'liquid ice cream'.",
         "search": "Search",
-        "utbid": 2594734,
+        "ut_bid": 2594734,
         "session": "container-b",
         "id": 2594734,
         "metastyle": "Dark"
@@ -1184,7 +1184,7 @@
         "style": "Saison/Farmhouse Ale",
         "desc": "A red Saison base beer has been dosed up with McLeod's house culture of souring bacteria and wild yeast. It has soft tartness, sweet malt and lingering tart finish.",
         "search": "Search",
-        "utbid": 2594754,
+        "ut_bid": 2594754,
         "session": "container-b",
         "id": 2594754,
         "metastyle": "European"
@@ -1196,7 +1196,7 @@
         "style": "New England IPA",
         "desc": "The Mill has used New England-style techniques?by adding hops late in the brewing process while making a hazy beer?and blended them with a Red IPA. Fluffy and soft mouthfeel, low bitterness and loads of juicy flavours.",
         "search": "Search",
-        "utbid": 2595027,
+        "ut_bid": 2595027,
         "session": "container-b",
         "id": 2595027,
         "metastyle": "IPA"
@@ -1208,7 +1208,7 @@
         "style": "Soured Fruit Beer",
         "desc": "A combination of kettle souring, passionfruit, and Galaxy and Mosaic hops create this brewery's version of a Passion Pop. They assure us that this one actually tastes good! (the other one doesn't?)",
         "search": "Search",
-        "utbid": 2594772,
+        "ut_bid": 2594772,
         "session": "container-b",
         "id": 2594772,
         "metastyle": "Sour"
@@ -1220,7 +1220,7 @@
         "style": "Kettle Sour",
         "desc": "Fresh local strawberry, vanilla, lactose and a sour base beer combine to create a smoothie-like appearance and tart juicy flavour.",
         "search": "Search",
-        "utbid": 2594774,
+        "ut_bid": 2594774,
         "session": "container-b",
         "id": 2594774,
         "metastyle": "Sour"
@@ -1232,7 +1232,7 @@
         "style": "Double IPA",
         "desc": "Adventurous Unfiltered IPA with loads of hops from Australia, NZ, and the US. Expect a tropical cocktail of rainforest and fresh fruit aroma, with deep ripe fruit flavours.",
         "search": "Search",
-        "utbid": 2594778,
+        "ut_bid": 2594778,
         "session": "container-b",
         "id": 2594778,
         "metastyle": "IPA"
@@ -1244,7 +1244,7 @@
         "style": "Specialty Beer",
         "desc": "Using a secret method to extract the flavour from vanilla bean ice cream, Moondog has produced a bright red cherry and ice cream infused dessert beer.",
         "search": "Search",
-        "utbid": 2594782,
+        "ut_bid": 2594782,
         "session": "container-b",
         "id": 2594782,
         "metastyle": "Experimental"
@@ -1256,7 +1256,7 @@
         "style": "New England IPA",
         "desc": "OK, so there are a bunch of New England IPAs here, but this one is possibly the wackiest. The brewery have used beetroot here so it's gonna be a weird colour, have earthy flavours and be a juicy experience.",
         "search": "Search",
-        "utbid": 2594786,
+        "ut_bid": 2594786,
         "session": "container-b",
         "id": 2594786,
         "metastyle": "IPA"
@@ -1268,7 +1268,7 @@
         "style": "Brown Ale (UK-style)",
         "desc": "This Brown Ale has miso, sesame, soy, spring onions and seaweed added. It's the third in their Asian-food inspired GABS beers, after their Hot & Sour and Green Curry Saison.",
         "search": "Search",
-        "utbid": 2594789,
+        "ut_bid": 2594789,
         "session": "container-b",
         "id": 2594789,
         "metastyle": "European"
@@ -1280,7 +1280,7 @@
         "style": "Irish-style Dry Stout",
         "desc": "A Stout that could sink your ship, or float your boat. In memory of summer ruined by the Rena oil spill, this is flavoured with cherry, vanilla and kola nuts. Served on nitrogen for that extra thick slickness.",
         "search": "Search",
-        "utbid": 2594791,
+        "ut_bid": 2594791,
         "session": "container-b",
         "id": 2594791,
         "metastyle": "Dark"
@@ -1292,7 +1292,7 @@
         "style": "Specialty Beer",
         "desc": "Sunday! Sunday! Sunday! At the Citrus Bowl off US-30!! Shake hands with the devil as you scream through the burning gates of hell with this whisky infused, barrel aged, chipotle spiced, nitrogen fuelled Imperial Stout.",
         "search": "Search",
-        "utbid": 2594796,
+        "ut_bid": 2594796,
         "session": "container-b",
         "id": 2594796,
         "metastyle": "Experimental"
@@ -1304,7 +1304,7 @@
         "style": "American Pale Ale",
         "desc": "There?s an increasing crossover between craft beer and craft spirits, shown here in Murray?s collab with their new gin distillery ?Gentleman Smith? at Bob?s Farm (NSW). The question is: is it a beer in gin?s clothing, or gin masquerading as beer?",
         "search": "Search",
-        "utbid": 2594801,
+        "ut_bid": 2594801,
         "session": "container-b",
         "id": 2594801,
         "metastyle": "American"
@@ -1316,7 +1316,7 @@
         "style": "Belgian Dubbel",
         "desc": "Belgian beers often have a bubblegum character from their unique strains of yeast. New England have run with that concept and simply added bubblegum directly into the beer. Don?t worry, you can swallow this one.",
         "search": "Search",
-        "utbid": 2594811,
+        "ut_bid": 2594811,
         "session": "container-b",
         "id": 2594811,
         "metastyle": "European"
@@ -1328,7 +1328,7 @@
         "style": "Australian Wild Ale",
         "desc": "Newstead has captured wild yeast, indigenous to Brisbane, in collaboration with the University of Queensland. The beer is a hoppy Pale Ale which uses that yeast - the first time its been used commercially.",
         "search": "Search",
-        "utbid": 2594815,
+        "ut_bid": 2594815,
         "session": "container-b",
         "id": 2594815,
         "metastyle": "Sour"
@@ -1340,7 +1340,7 @@
         "style": "Saison/Farmhouse Ale",
         "desc": "Nectar is derived from \"nektar\" in Greek - aka the drink of the gods. This uses a Saison base, soured with yoghurt culture, boiled with dried mango, and conditioned on peaches. Oh lord(s).",
         "search": "Search",
-        "utbid": 2594817,
+        "ut_bid": 2594817,
         "session": "container-b",
         "id": 2594817,
         "metastyle": "European"
@@ -1352,7 +1352,7 @@
         "style": "Baltic Porter",
         "desc": "The brewery have told us that everyone loves a double dipped Cherry Ripe. And while the dark choc version is FAR superior, they are still right. This is a rich Baltic Porter with coconut and cherry.",
         "search": "Search",
-        "utbid": 2594820,
+        "ut_bid": 2594820,
         "session": "container-b",
         "id": 2594820,
         "metastyle": "Dark"
@@ -1364,7 +1364,7 @@
         "style": "Sweet Stout",
         "desc": "Ice cream, chocolate and coffee are the perfect combination at the end of an Italian meal. Even better when they are in beer form! This has additions of coffee, chocolate and cherries, and is creamy from the nitrogen dispense.",
         "search": "Search",
-        "utbid": 2594822,
+        "ut_bid": 2594822,
         "session": "container-b",
         "id": 2594822,
         "metastyle": "Dark"
@@ -1376,7 +1376,7 @@
         "style": "Smoked Beer (non Rauchbier)",
         "desc": "Ocho has taken influence from Finnish farmhouse brewers to create this local version of Sahti. Instead of using juniper branches like the Fins, Ocho has used Tasmanian blue gum branches, leaves and gumnuts. It's smokey-yet-smooth and uniquely Australian.",
         "search": "Search",
-        "utbid": 2576106,
+        "ut_bid": 2576106,
         "session": "container-b",
         "id": 2576106,
         "metastyle": "Flavoured"
@@ -1388,7 +1388,7 @@
         "style": "Specialty Beer",
         "desc": "Memories of the Blue Heaven Milkshake got the Odyssey crew experimenting with English and American yeasts, raspberry, vanilla, and a little food colouring to bring you this party in your mouth.",
         "search": "Search",
-        "utbid": 2594827,
+        "ut_bid": 2594827,
         "session": "container-b",
         "id": 2594827,
         "metastyle": "Experimental"
@@ -1400,7 +1400,7 @@
         "style": "Double IPA",
         "desc": "Adventurous Outlier's take on a summer fruit smoothie. It's a double IPA, that's double dry hopped, and served on nitrogen for a creamy experience.",
         "search": "Search",
-        "utbid": 2503465,
+        "ut_bid": 2503465,
         "session": "container-b",
         "id": 2503465,
         "metastyle": "IPA"
@@ -1412,7 +1412,7 @@
         "style": "Specialty Beer",
         "desc": "Organic black rice lends dark colour and light body while salty Tasmanian seaweed brings a moreish character. Even with Japanese buckwheat and purple barley, this still is a Lager at heart, but is taken into delicious and almost culinary directions thanks to the seaweed umami.",
         "search": "Search",
-        "utbid": 2594837,
+        "ut_bid": 2594837,
         "session": "container-b",
         "id": 2594837,
         "metastyle": "Experimental"
@@ -1424,7 +1424,7 @@
         "style": "IPA (Specialty)",
         "desc": "Banana, vanilla and good old Upper Hutt sweat have gone into this concoction. Served on nitro, it's as though someone blitzed a banana split right into your glass.",
         "search": "Search",
-        "utbid": 2594841,
+        "ut_bid": 2594841,
         "session": "container-b",
         "id": 2594841,
         "metastyle": "IPA"
@@ -1436,7 +1436,7 @@
         "style": "Rauchbier",
         "desc": "Gather the whanau, some h?ngi stones, and wet sacks before you enjoy this take on classic Kiwi kai. Smoked kumara, pumpkin and potato have been added to this one. Pork and puha optional.",
         "search": "Search",
-        "utbid": 2594905,
+        "ut_bid": 2594905,
         "session": "container-b",
         "id": 2594905,
         "metastyle": "European"
@@ -1448,7 +1448,7 @@
         "style": "Porter",
         "desc": "We all love Nutella, so of course we want to try it in beer form. The brewery has used a large portion of chocolate malt, cacao nibs, and a charge of hazelnut once it finished fermenting.",
         "search": "Search",
-        "utbid": 2594907,
+        "ut_bid": 2594907,
         "session": "container-b",
         "id": 2594907,
         "metastyle": "Dark"
@@ -1460,7 +1460,7 @@
         "style": "Black IPA",
         "desc": "Using a special hop blend, designed specifically for Pink Boots, this is a Black IPA that has also been given a bourbon barrel treatment. Brewed by a collective of women to celebrate International Women's Day.",
         "search": "Search",
-        "utbid": 2594912,
+        "ut_bid": 2594912,
         "session": "container-c",
         "id": 2594912,
         "metastyle": "IPA"
@@ -1472,7 +1472,7 @@
         "style": "Rye IPA",
         "desc": "With an unusual addition of triticale, a wheat and rye hybrid, this also uses estate grown grain and a combo of Kiwi and Australian hops.",
         "search": "Search",
-        "utbid": 2594913,
+        "ut_bid": 2594913,
         "session": "container-c",
         "id": 2594913,
         "metastyle": "IPA"
@@ -1484,7 +1484,7 @@
         "style": "Belgian Blond Ale",
         "desc": "Pirate Life's favourite digestif after a crew meal, Amaro Montenegro is a powerhouse of 40 different botanicals. The team have selected their favourite handful to spice a robust Belgian Blonde Ale, along with a copious splurge of 'the Real McCoy'.",
         "search": "Search",
-        "utbid": 2594916,
+        "ut_bid": 2594916,
         "session": "container-c",
         "id": 2594916,
         "metastyle": "European"
@@ -1496,7 +1496,7 @@
         "style": "New England IPA",
         "desc": "With aromas like strawberry, stone fruit, and a hint of mint; you'll swear they've dosed this with fruit. However this is simply hops, malt, water, and yeast. You don't need crazy ingredients to make crazy beer.",
         "search": "Search",
-        "utbid": 2594917,
+        "ut_bid": 2594917,
         "session": "container-c",
         "id": 2594917,
         "metastyle": "IPA"
@@ -1508,7 +1508,7 @@
         "style": "Kettle Sour",
         "desc": "Using kettle souring techniques, the brewery has created a sour Brown Ale with chocolate and caramel flavours. The aroma is given a boost from a generous helping of new world hops.",
         "search": "Search",
-        "utbid": 2595032,
+        "ut_bid": 2595032,
         "session": "container-c",
         "id": 2595032,
         "metastyle": "Sour"
@@ -1520,7 +1520,7 @@
         "style": "Sweet Stout",
         "desc": "Served on nitrogen, this is a chocolate lovers dream. Creamy layers of rich chocolate, followed by chocolate. There's a hint of apricot whisky jam (author's note: what is that? We need it), and then more chocolate.",
         "search": "Search",
-        "utbid": 2594920,
+        "ut_bid": 2594920,
         "session": "container-c",
         "id": 2594920,
         "metastyle": "Dark"
@@ -1532,7 +1532,7 @@
         "style": "Belgian Golden Strong Ale",
         "desc": "Red Hill excel when brewing classic styles, so you know when they turn their hand to a strong Belgian Ale it'll be a ripper. For GABS, they've bought it into the modern era with intensely aromatic New World hops.",
         "search": "Search",
-        "utbid": 2594922,
+        "ut_bid": 2594922,
         "session": "container-c",
         "id": 2594922,
         "metastyle": "European"
@@ -1544,7 +1544,7 @@
         "style": "Sweet Stout",
         "desc": "Not many things say 'celebration party time' more than an espresso martini. And that's what you've got here, in beer form! Locally roasted cold drip coffee and lactose combine for a smooth espresso flavour.",
         "search": "Search",
-        "utbid": 2594923,
+        "ut_bid": 2594923,
         "session": "container-c",
         "id": 2594923,
         "metastyle": "Dark"
@@ -1556,7 +1556,7 @@
         "style": "Witbier",
         "desc": "With an unusual grain bill of 100% wheat malt, and a dose of jasmine tea at the end, this has all the citrusy flavours you'd expect from a wit beer while being exceptionally refreshing.",
         "search": "Search",
-        "utbid": 2594925,
+        "ut_bid": 2594925,
         "session": "container-c",
         "id": 2594925,
         "metastyle": "European"
@@ -1568,7 +1568,7 @@
         "style": "Specialty Beer",
         "desc": "Beer is pretty fun, but wouldn't you rather go pick some of those... WILD, STRAWBERRIES? To the strains of the PNAU banger, Sailors Grave did just that. Sour, funky and full of foraged strawberry.",
         "search": "Search",
-        "utbid": 2594928,
+        "ut_bid": 2594928,
         "session": "container-c",
         "id": 2594928,
         "metastyle": "Experimental"
@@ -1580,7 +1580,7 @@
         "style": "New England IPA",
         "desc": "Sauce is a brewery known for making one of the best New England Style IPAs in Australia. This is their bulked up version, crammed with hops, oats, wheat, more hops, and mangoes! You want hazy and juicy? Here it is.",
         "search": "Search",
-        "utbid": 2594930,
+        "ut_bid": 2594930,
         "session": "container-c",
         "id": 2594930,
         "metastyle": "IPA"
@@ -1592,7 +1592,7 @@
         "style": "Brown Ale (UK-style)",
         "desc": "Jerky and beer: a great combo side by side. However, this is GABS and that ain't what its about. The brewery teamed with Big Wig Jerky and added jerky right at the end of the boil of a malty English Brown Ale.",
         "search": "Search",
-        "utbid": 2594934,
+        "ut_bid": 2594934,
         "session": "container-c",
         "id": 2594934,
         "metastyle": "European"
@@ -1604,7 +1604,7 @@
         "style": "Dry Hopped Sour",
         "desc": "This is a kettle soured beer they have hopped like an IPA. For this beer, Shambles wants to balance flavours of hops with the refreshing tartness of a kettle soured beer.",
         "search": "Search",
-        "utbid": 2594937,
+        "ut_bid": 2594937,
         "session": "container-c",
         "id": 2594937,
         "metastyle": "Sour"
@@ -1616,7 +1616,7 @@
         "style": "Saison/Farmhouse Ale",
         "desc": "Shark Island has used backyard fruit in both previous GABS beers. First go, they used choko fruit, second, mulberry. Here? Lilli pilli berries and ginger have been added to a spritzy Saison.",
         "search": "Search",
-        "utbid": 2594942,
+        "ut_bid": 2594942,
         "session": "container-c",
         "id": 2594942,
         "metastyle": "European"
@@ -1628,7 +1628,7 @@
         "style": "Specialty Beer",
         "desc": "Worth waking up to, this cool fermented ale features smoky spice and a rounded long finish. It's an easy-drinker suitable for imbibing with (or instead of) breakfast, with rolled oats, maple syrup and the spiced berry notes of Bramling Cross hops to create the breakfast of champions.",
         "search": "Search",
-        "utbid": 2594945,
+        "ut_bid": 2594945,
         "session": "container-c",
         "id": 2594945,
         "metastyle": "Experimental"
@@ -1640,7 +1640,7 @@
         "style": "Gose",
         "desc": "It might sound weird on paper - this Mexican inspired habanero Gose - but it probably makes a ton of sense in the glass. Sweet pineapple, salt, and a lick of chilli. Like tacos al pastor without the pork.",
         "search": "Search",
-        "utbid": 2594947,
+        "ut_bid": 2594947,
         "session": "container-c",
         "id": 2594947,
         "metastyle": "Sour"
@@ -1652,7 +1652,7 @@
         "style": "Ordinary Bitter",
         "desc": "Looking for more protein in your beer? Infusing ground edible crickets (as loved by most lizards), this well rounded Bitter is the perfect side dish to any meal.",
         "search": "Search",
-        "utbid": 2594950,
+        "ut_bid": 2594950,
         "session": "container-c",
         "id": 2594950,
         "metastyle": "Classic"
@@ -1664,7 +1664,7 @@
         "style": "American Pale Ale",
         "desc": "A 'gluten reduced' beer, it's not entirely gluten free but is very low. It uses Australian base malts and a lot of American hops. There are resin-driven flavours and a bright copper aroma.",
         "search": "Search",
-        "utbid": 2594951,
+        "ut_bid": 2594951,
         "session": "container-c",
         "id": 2594951,
         "metastyle": "American"
@@ -1676,7 +1676,7 @@
         "style": "Wood-Aged Beer",
         "desc": "No strangers to barrel-ageing beers for GABS, Sierra Nevada have pulled out all the stops again with this bright, peppery Belgian-style Tripel infused with delicate botanicals from gin barrels. Golden, lively, and with wisps of peach and pear, this beer is delightfully complex and devilishly drinkable.",
         "search": "Search",
-        "utbid": 0,
+        "ut_bid": 0,
         "session": "container-c",
         "id": 0,
         "metastyle": "Flavoured"
@@ -1688,7 +1688,7 @@
         "style": "Sweet Stout",
         "desc": "Close your eyes, shut out the chatter, quiet the roving brass band, and imagine a liquified mint slice. Tastes pretty good huh? Ok, back to reality. Here the brewery has used cacao nibs and mint leaves on a chocolate Stout base.",
         "search": "Search",
-        "utbid": 2594954,
+        "ut_bid": 2594954,
         "session": "container-c",
         "id": 2594954,
         "metastyle": "Dark"
@@ -1700,7 +1700,7 @@
         "style": "IPA (Specialty)",
         "desc": "Parfait translates from french to 'perfect', and with a hazy, IPA loaded with hops and a touch of sweet malt flavour then we may have just attained it here. Served on nitro for that extra creamy feel.",
         "search": "Search",
-        "utbid": 2594955,
+        "ut_bid": 2594955,
         "session": "container-c",
         "id": 2594955,
         "metastyle": "IPA"
@@ -1712,7 +1712,7 @@
         "style": "Wood-Aged Beer",
         "desc": "Using Woodford Reserve bourbon barrels, Stockade aged their Rare Ink Session Stout to create a rich experience that remains easy drinking. Expect a light body rounded out by oak, vanilla and chocolate flavours.",
         "search": "Search",
-        "utbid": 2594964,
+        "ut_bid": 2594964,
         "session": "container-c",
         "id": 2594964,
         "metastyle": "Flavoured"
@@ -1724,7 +1724,7 @@
         "style": "Cream Ale",
         "desc": "Is there more to life than drinking really, really, ridiculously good beer? Made with the finest English malts, Australian navel orange juice and rind, chocolate nibs and Proud Mary coffee, this one?s sure to wake you up before you go-go.",
         "search": "Search",
-        "utbid": 2594965,
+        "ut_bid": 2594965,
         "session": "container-c",
         "id": 2594965,
         "metastyle": "Classic"
@@ -1736,7 +1736,7 @@
         "style": "Sweet Stout",
         "desc": "This creamy stout, served on nitro (think Guinness mouthfeel), uses heaps of chocolate malt, lactose sugar, vanilla, and even more chocolate (so, nothing like Guinness). Luscious, smooth and a little sensual.",
         "search": "Search",
-        "utbid": 2594968,
+        "ut_bid": 2594968,
         "session": "container-c",
         "id": 2594968,
         "metastyle": "Dark"
@@ -1748,7 +1748,7 @@
         "style": "Soured Fruit Beer",
         "desc": "100% lactobacillus fermented sour ale with 30 kilos of peaches for every 100 litres of beer. Apparently we are to tell James its his day to embrace the rash. Now, we wonder who James is?",
         "search": "Search",
-        "utbid": 2595035,
+        "ut_bid": 2595035,
         "session": "container-c",
         "id": 2595035,
         "metastyle": "Sour"
@@ -1760,7 +1760,7 @@
         "style": "Sweet Stout",
         "desc": "S'mores - they are an American thing that you know from TV probably. Marshmallow, chocolate and biscuits toasted on a fire. You bet the team at Tooborac have put all three into this beer.",
         "search": "Search",
-        "utbid": 2595041,
+        "ut_bid": 2595041,
         "session": "container-c",
         "id": 2595041,
         "metastyle": "Dark"
@@ -1772,7 +1772,7 @@
         "style": "White IPA",
         "desc": "Witbier meets IPA. Belgium meets American. It's a blend of big bold US hops, and the lively spice of Belgian yeast. Expect tropical fruits and bubblegum aroma.",
         "search": "Search",
-        "utbid": 2556064,
+        "ut_bid": 2556064,
         "session": "container-c",
         "id": 2556064,
         "metastyle": "IPA"
@@ -1784,7 +1784,7 @@
         "style": "White IPA",
         "desc": "These Tassie based brewers have combined the fragrant yeast of Belgium, with the boldness of American hops, and finished it all off with some Japanese Yuzu. It's a spicy, hoppy and tart cross-continent experience.",
         "search": "Search",
-        "utbid": 2595058,
+        "ut_bid": 2595058,
         "session": "container-c",
         "id": 2595058,
         "metastyle": "IPA"
@@ -1796,7 +1796,7 @@
         "style": "Fruit Beer",
         "desc": "The next in their 'Cult of Dionysus' GABS series, this is a Red IPA co-fermented with eight Italian red grape varieties from the Bathurst region. Expect subtle malts, spice, and stacks of red berry flavour.",
         "search": "Search",
-        "utbid": 2595060,
+        "ut_bid": 2595060,
         "session": "container-c",
         "id": 2595060,
         "metastyle": "Flavoured"
@@ -1808,7 +1808,7 @@
         "style": "Weizen/Weissbier/Hefeweizen",
         "desc": "You're going to find layers of fruit flavour in this, from bubblegum, to tropical fruit, and hints of pear and watermelon.",
         "search": "Search",
-        "utbid": 2595062,
+        "ut_bid": 2595062,
         "session": "container-c",
         "id": 2595062,
         "metastyle": "European"
@@ -1820,7 +1820,7 @@
         "style": "Specialty Beer",
         "desc": "Fermented with freshly pressed Pinot Noir grapes from their neighbours at Mac Forbes Wines, this Pale Ale from Watts River is satisfyingly dry, gorgeously pink and deliciously showcases the Yarra Valley.",
         "search": "Search",
-        "utbid": 2595064,
+        "ut_bid": 2595064,
         "session": "container-c",
         "id": 2595064,
         "metastyle": "Experimental"
@@ -1832,7 +1832,7 @@
         "style": "Wood-Aged Beer",
         "desc": "Wayward made sure to research whisky sours in depth before attempting this one. They've made a strong kettle soured beer, added ginger and apple, then aged it in Jack Daniel's barrels. Oaky, lovely, with a strong vanilla hit.",
         "search": "Search",
-        "utbid": 2595065,
+        "ut_bid": 2595065,
         "session": "container-c",
         "id": 2595065,
         "metastyle": "Flavoured"
@@ -1844,7 +1844,7 @@
         "style": "Specialty Beer",
         "desc": "Put this one high up on your list because no one else is making mixed culture, traditional, alcoholic ginger beer commercially anywhere in the world. It sounds fun, and has prickly pears. What more do you need from GABS?",
         "search": "Search",
-        "utbid": 2595066,
+        "ut_bid": 2595066,
         "session": "container-c",
         "id": 2595066,
         "metastyle": "Experimental"
@@ -1856,7 +1856,7 @@
         "style": "Gose",
         "desc": "Packed with pink Himalayan salt, sweet orange peel, coriander seed, as well as a Tequila, oak and lime zest infusion, this Margoserita will have you dancing in no time.",
         "search": "Search",
-        "utbid": 2595067,
+        "ut_bid": 2595067,
         "session": "container-c",
         "id": 2595067,
         "metastyle": "Sour"
@@ -1868,7 +1868,7 @@
         "style": "Brown IPA",
         "desc": "Inspired by long days hiking in mountains, this is a roasty Brown Ale with a whack of aroma hops. To finish it off, they used Canadian maple syrup for a complex and unique finish.",
         "search": "Search",
-        "utbid": 2595069,
+        "ut_bid": 2595069,
         "session": "container-c",
         "id": 2595069,
         "metastyle": "IPA"
@@ -1880,7 +1880,7 @@
         "style": "Gose",
         "desc": "The sour and salty style, known as Gose, has been given a chocolate and orange treatment. The brewers say they only used ingredients found in the 'seven circles of hell'. We'll have to take their word for it.",
         "search": "Search",
-        "utbid": 2595070,
+        "ut_bid": 2595070,
         "session": "container-c",
         "id": 2595070,
         "metastyle": "Sour"
@@ -1892,7 +1892,7 @@
         "style": "Belgian Tripel",
         "desc": "Marrying a Belgian style with Japanese culture, this beer is brewed with toasted sesame seeds, Sansho peppers, Yuzu peel and served on nitro for a creamy mouthfeel.",
         "search": "Search",
-        "utbid": 2595072,
+        "ut_bid": 2595072,
         "session": "container-c",
         "id": 2595072,
         "metastyle": "European"
@@ -1904,7 +1904,7 @@
         "style": "Spice, Herb, or Vegetable Beer",
         "desc": "Curry in a glass. If that sounds like something you want, then this dark Porter was brewed with Rogan Josh masala mix from a local Indian grocer. Expect a wonderful curry aroma and delicate chilli heat.",
         "search": "Search",
-        "utbid": 2595073,
+        "ut_bid": 2595073,
         "session": "container-c",
         "id": 2595073,
         "metastyle": "Flavoured"
@@ -1916,7 +1916,7 @@
         "style": "Gose",
         "desc": "The Japanese influence continues with Marrickville brewers, Willie The Boatman, carrying their love of miso soup over to this Gose-style beer. The sour base beer has been infused with miso paste and seaweed.",
         "search": "Search",
-        "utbid": 2595077,
+        "ut_bid": 2595077,
         "session": "container-c",
         "id": 2595077,
         "metastyle": "Sour"
@@ -1928,7 +1928,7 @@
         "style": "Kettle Sour",
         "desc": "A double-Wolf collab that sees Wolf of the Willows joining forces with distillers, Patient Wolf. They've combined a tropical fruit driven sour beer with classic gin ingredients. An ode to the Tom Collins.",
         "search": "Search",
-        "utbid": 2595079,
+        "ut_bid": 2595079,
         "session": "container-c",
         "id": 2595079,
         "metastyle": "Sour"
@@ -1940,7 +1940,7 @@
         "style": "Specialty Beer",
         "desc": "As sure as yaks love honey (this is a thing, right), this beer will have you coming back for more. Expect a subtle but distinctive honey aroma and flavour, carried by a light malty palate and soft bitterness.",
         "search": "Search",
-        "utbid": 2595081,
+        "ut_bid": 2595081,
         "session": "container-c",
         "id": 2595081,
         "metastyle": "Experimental"
@@ -1952,7 +1952,7 @@
         "style": "Belgian Dubbel",
         "desc": "Young Henry's has used the classic Belgian Dubbel style as a base to help showcase coffee aroma. There will be flavours of raisin, dark fruit, brown sugar, with an underlying coffee hit.",
         "search": "Search",
-        "utbid": 2595098,
+        "ut_bid": 2595098,
         "session": "container-c",
         "id": 2595098,
         "metastyle": "European"
@@ -1964,7 +1964,7 @@
         "style": "Brown Ale (UK-style)",
         "desc": "In collaboration with Eltham Pantry in Byron Bay, Yulli's have added maple coated pecans at several stages of the brewing process, then aged the beer in ex-Bourbon barrels. Well, we're excited.",
         "search": "Search",
-        "utbid": 2595110,
+        "ut_bid": 2595110,
         "session": "container-c",
         "id": 2595110,
         "metastyle": "European"
@@ -1976,7 +1976,7 @@
         "style": "Specialty Cider",
         "desc": "Batlow apples combined with blackcurrant and fermented with French saison yeast. Post-ferment additions of Galaxy and Citra Hops give it all a spicy citrus boost.",
         "search": "Search",
-        "utbid": 2593679,
+        "ut_bid": 2593679,
         "session": "container-c",
         "id": 2593679,
         "metastyle": "Cider"
@@ -1988,7 +1988,7 @@
         "style": "Specialty Perry",
         "desc": "A medium sweet heritage perry cider that has a straw colour and a floral nose. Fermented in oak, expect a pear aroma with hints of quince. A multilayered palate with fruitiness followed by a balanced tannic finish.",
         "search": "Search",
-        "utbid": 2593726,
+        "ut_bid": 2593726,
         "session": "container-c",
         "id": 2593726,
         "metastyle": "Cider"
@@ -2000,7 +2000,7 @@
         "style": "New World Cider",
         "desc": "After finding a treasure trove of handmade Tasmanian jams in the back of their grandmother?s cupboard, the Devils Brewery team did what any self-respecting brewer would do: Make cider! Taste the love in every sip.",
         "search": "Search",
-        "utbid": 2593741,
+        "ut_bid": 2593741,
         "session": "container-c",
         "id": 2593741,
         "metastyle": "Cider"
@@ -2012,7 +2012,7 @@
         "style": "Specialty Cider",
         "desc": "In the midst of Vintage (grape harvest season), Flying Brick weren't able to tell us a lot. But we do know that it's an apple and pear cider, pressed on Chardonnay grape skins. That'll do for us!",
         "search": "Search",
-        "utbid": 2593750,
+        "ut_bid": 2593750,
         "session": "container-c",
         "id": 2593750,
         "metastyle": "Cider"
@@ -2024,7 +2024,7 @@
         "style": "Specialty Cider",
         "desc": "Big supporters of their neighbouring farmers and growers, Grand Ridge chose to use 'ugly fruit' (or apples that would have otherwise been thrown away) for this beautiful cider, along with a touch of cinnamon for an extra layer.",
         "search": "Search",
-        "utbid": 2593771,
+        "ut_bid": 2593771,
         "session": "container-c",
         "id": 2593771,
         "metastyle": "Cider"
@@ -2036,7 +2036,7 @@
         "style": "Traditional Cider",
         "desc": "All about classic cider apples up in here. Dabinett, Kingston Black, Yarlington Mill and Somerset Red Streak. This is classic cider done right.",
         "search": "Search",
-        "utbid": 2593821,
+        "ut_bid": 2593821,
         "session": "container-c",
         "id": 2593821,
         "metastyle": "Cider"
@@ -2048,7 +2048,7 @@
         "style": "Cider with Fruit",
         "desc": "Who doesn't like a good mojito? The team have infused crisp apple cider with crushed mint and lime juice. It was then aged in rum barrels for that classic mojito mix.",
         "search": "Search",
-        "utbid": 2594737,
+        "ut_bid": 2594737,
         "session": "container-c",
         "id": 2594737,
         "metastyle": "Cider"
@@ -2060,7 +2060,7 @@
         "style": "Specialty Cider",
         "desc": "Barrel fermented cider complemented by Mead and honey from local Yarra Valley hives. This is all about the deft balance of sweet honey and oaky cider.",
         "search": "Search",
-        "utbid": 2594809,
+        "ut_bid": 2594809,
         "session": "container-c",
         "id": 2594809,
         "metastyle": "Cider"
@@ -2072,7 +2072,7 @@
         "style": "Traditional Cider",
         "desc": "With its slow, wild ferment of late picked bittersweet apples, Pechkam's liken this to a mature farmhouse cheese. It's all about wild yeast and fruit given time to do their thing.",
         "search": "Search",
-        "utbid": 2594903,
+        "ut_bid": 2594903,
         "session": "container-c",
         "id": 2594903,
         "metastyle": "Cider"
@@ -2084,7 +2084,7 @@
         "style": "Cider with Fruit",
         "desc": "Small Acres co-fermented apricots with apples, and even a few apricot crumble ingredients, in an old Pommeau (apple brandy) barrel. The result is a unique, full bodied, dry cider.",
         "search": "Search",
-        "utbid": 2594958,
+        "ut_bid": 2594958,
         "session": "container-c",
         "id": 2594958,
         "metastyle": "Cider"
@@ -2096,7 +2096,7 @@
         "style": "Specialty Cider",
         "desc": "To a modern cider base, the team have added Tassie raspberries and blackcurrants for a non-traditional cider. This one is all about showing off the best Tasmanian produce.",
         "search": "Search",
-        "utbid": 2594959,
+        "ut_bid": 2594959,
         "session": "container-c",
         "id": 2594959,
         "metastyle": "Cider"
@@ -2108,7 +2108,7 @@
         "style": "Specialty Cider",
         "desc": "Coffee is a common ingredient in beer, but ever had it in cider? This one is blended with cold brew coffee and served on nitro: like an espresso martini and cider hybrid. Yeah, you want to try this.",
         "search": "Search",
-        "utbid": 2595036,
+        "ut_bid": 2595036,
         "session": "container-c",
         "id": 2595036,
         "metastyle": "Cider"
@@ -2120,7 +2120,7 @@
         "style": "Traditional Cider",
         "desc": "A big fat tannic cider that bursts with apple aroma, sweetness and a massive tannin finish. It's Willie Smith's nod to the hard core French tannic cider apples of the traditional ciders. #tannic",
         "search": "Search",
-        "utbid": 2595076,
+        "ut_bid": 2595076,
         "session": "container-c",
         "id": 2595076,
         "metastyle": "Cider"
@@ -2132,7 +2132,7 @@
         "style": "New World Cider",
         "desc": "The only cider here inspired by blues singer Blind Box Paxton. This blends blackberry, blackcurrant and blueberry with a crisp apple. Purple, not too sweet, and gorgeously drinkable.",
         "search": "Search",
-        "utbid": 2595111,
+        "ut_bid": 2595111,
         "session": "container-c",
         "id": 2595111,
         "metastyle": "Cider"
