@@ -190,13 +190,20 @@ app.get('/mbcc-2017-dump-jonpacker.csv', function(req, res) {
 
 app.get('/latest.json', function(req, res) {
   if (!dataCache.time || Date.now() - dataCache.time > 120000) {
-    getBeerData(function(err, updates) {
-      if (err) return res.sendStatus(500);
+    if (argv.disk) {
+      beers = JSON.parse(fs.readFileSync(__dirname + '/beers.json', 'utf8'));
       dataCache.time = Date.now();
-      dataCache.data = updates;
-      beers = updates;
-      res.json(updates);
-    });
+      dataCache.data = beers;
+      res.json(beers);
+    } else {
+      getBeerData(function(err, updates) {
+        if (err) return res.sendStatus(500);
+        dataCache.time = Date.now();
+        dataCache.data = updates;
+        beers = updates;
+        res.json(updates);
+      });
+    }
   } else {
     res.json(dataCache.data);
   }
