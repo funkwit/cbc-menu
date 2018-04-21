@@ -37,18 +37,12 @@ html(manifest="app.cache")
       | {{/msg}}
       h1 GABS 2018
       .sessions
-        a(href='#session[{"colour":"yellow"}]', class="session yellow") 
-          h2 Yellow
-          .sub Friday 10-14
-        a(href='#session[{"colour":"blue"}]', class="session blue") 
-          h2 Blue
-          .sub Friday 16-20
-        a(href='#session[{"colour":"red"}]', class="session red") 
-          h2 Red
-          .sub Saturday 10-14
-        a(href='#session[{"colour":"green"}]', class="session green") 
-          h2 Green
-          .sub Saturday 16-20
+        a(href='#session[{"colour":"container-a"}]', class="session container-a") 
+          h2 Container A
+        a(href='#session[{"colour":"container-b"}]', class="session container-b") 
+          h2 Container B
+        a(href='#session[{"colour":"container-c"}]', class="session container-c") 
+          h2 Container C
       .beer-lists
         a(href="#beerlist", class="all-beers-sel") All Beers
       .untappd

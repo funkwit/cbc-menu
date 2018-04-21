@@ -171,7 +171,7 @@ app.get('/mbcc-2017-dump-jonpacker.csv', function(req, res) {
         dataCache.csvTime = Date.now();
       });
       
-      var sessions = ['yellow', 'blue', 'red', 'green']
+      var sessions = ['container-a', 'container-b', 'container-c']
       data.breweries.sort().forEach(function(brewery) {
         var beers = data.beers.filter((beer) => { return beer.brewery == brewery });
         beers = _.sortBy(beers, (beer) => { return sessions.indexOf(beer.session) });
