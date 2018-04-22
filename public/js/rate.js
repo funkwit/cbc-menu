@@ -1,4 +1,4 @@
-var sessions = {yellow: 1, blue: 2, red: 3, green: 4};
+var sessions = {"container-a": 1, "container-b": 2, "container-c": 3};
 window.beers = _.sortBy(window.beers, function(beer) { return sessions[beer.session] });
 
 var indexedBeers = {};
