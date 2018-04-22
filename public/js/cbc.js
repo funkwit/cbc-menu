@@ -46,7 +46,7 @@ function connectToWebsocket() {
 }
 if (!localStorage.getItem('disable_live_rating')) connectToWebsocket();
 
-var UT_CLIENT = '7E07FC9AC3B3866F4F620819996F262F087EAC92';
+var UT_CLIENT = '59C5BFB42E4C92B07435F894D5E637F7235F9669';
 
 // credit http://stackoverflow.com/a/11381730
 var isMobile = function() {
@@ -214,7 +214,7 @@ var renderers = {
       localStorage.removeItem('msg');
     }
     addUntappdUser(opts);
-    opts.untappd_redir_url = "http://mbcc.jonpacker.com";
+    opts.untappd_redir_url = "http://gabs.thirddrawer.com";
     opts.untappd_cid = UT_CLIENT;
     opts.live_ratings = !localStorage.getItem('disable_live_rating');
     return Mustache.render(templates.index, opts);
