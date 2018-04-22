@@ -400,13 +400,13 @@ $('body').on('click', '.beer .send-to-untappd', function(e) {
   fetchUntappd('/checkin/add', {
     method: 'POST',
     body: {
-      timezone: 'CET',
-      gmt_offset: 2,
+      timezone: 'AEST',
+      gmt_offset: 10,
       bid: untappdId,
       shout: comments,
-      foursquare_id: '59070ec7dd12f8527b483536',
-      geolat: 55.669541,
-      geolng: 12.562007,
+      foursquare_id: '4fab2856be7754c9442f6d36',
+      geolat: -37.8047,
+      geolng: 144.972,
       rating: rating > 0 ? rating : undefined
     }
   }).then(function(res) {
